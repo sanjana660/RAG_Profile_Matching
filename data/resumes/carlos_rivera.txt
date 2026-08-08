@@ -1,0 +1,9 @@
+Name: Carlos Rivera
+Summary:
+Data analyst with strong storytelling skills and operational reporting experience.
+Skills:
+SQL, Excel, Power BI, Python, KPI Reporting, Forecasting, Looker
+Experience:
+4 years supporting sales and operations.
+Education:
+B.S. in Statistics, University of Florida

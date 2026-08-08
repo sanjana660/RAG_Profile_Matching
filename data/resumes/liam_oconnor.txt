@@ -1,0 +1,9 @@
+Name: Liam O'Connor
+Summary:
+Frontend engineer focused on accessibility, performance, and modern React apps.
+Skills:
+JavaScript, React, TypeScript, Accessibility, CSS, Testing Library, GraphQL
+Experience:
+5 years building customer-facing web apps.
+Education:
+B.A. in Computer Science, Trinity College Dublin

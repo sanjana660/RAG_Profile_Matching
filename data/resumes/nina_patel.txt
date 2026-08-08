@@ -1,0 +1,9 @@
+Name: Nina Patel
+Summary:
+Data engineer specializing in pipelines, warehouses, and batch/stream processing.
+Skills:
+Python, SQL, Spark, Airflow, dbt, AWS, Snowflake, Kafka
+Experience:
+5 years designing scalable data platforms.
+Education:
+B.Tech in Information Technology, NIT Surat

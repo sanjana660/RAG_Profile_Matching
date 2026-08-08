@@ -1,0 +1,9 @@
+Name: Olivia Chen
+Summary:
+Product analyst who blends SQL, experimentation, and dashboard storytelling.
+Skills:
+SQL, Tableau, Power BI, Python, A/B Testing, Experimentation, Product Analytics
+Experience:
+4 years supporting growth and monetization teams.
+Education:
+B.S. in Economics, University of Washington

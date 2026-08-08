@@ -1,0 +1,9 @@
+Name: Yuki Tanaka
+Summary:
+Software engineer building secure, performant backend services.
+Skills:
+Go, Java, Kubernetes, PostgreSQL, AWS, gRPC, Microservices
+Experience:
+6 years in product infrastructure teams.
+Education:
+B.S. in Computer Science, University of Tokyo

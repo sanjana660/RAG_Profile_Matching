@@ -1,0 +1,9 @@
+Name: Andre Silva
+Summary:
+Backend engineer focused on APIs, pipelines, and cloud-native delivery.
+Skills:
+Python, FastAPI, PostgreSQL, AWS, Docker, Kafka, SQL
+Experience:
+7 years working on distributed services.
+Education:
+B.S. in Computer Engineering, Federal University of Rio de Janeiro

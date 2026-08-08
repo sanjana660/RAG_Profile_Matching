@@ -1,0 +1,9 @@
+Name: Thomas Becker
+Summary:
+Infrastructure engineer with deployment automation and observability.
+Skills:
+Docker, Kubernetes, AWS, Terraform, Prometheus, Python, Bash
+Experience:
+9 years scaling cloud infrastructure.
+Education:
+Dipl.-Ing. in Computer Science, TU Munich

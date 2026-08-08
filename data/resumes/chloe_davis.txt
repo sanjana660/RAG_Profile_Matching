@@ -1,0 +1,9 @@
+Name: Chloe Davis
+Summary:
+Operations analyst with KPI tracking, dashboards, and process improvement.
+Skills:
+SQL, Tableau, Excel, Python, Process Improvement, Reporting
+Experience:
+4 years working with operations and support teams.
+Education:
+B.A. in Mathematics, University of Manchester

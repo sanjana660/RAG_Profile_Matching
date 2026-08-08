@@ -1,0 +1,9 @@
+Name: Zain Ali
+Summary:
+Full stack developer with API, frontend, and cloud deployment experience.
+Skills:
+JavaScript, React, Node.js, Python, FastAPI, PostgreSQL, AWS
+Experience:
+6 years delivering SaaS products.
+Education:
+B.S. in Software Engineering, Lahore University of Management Sciences

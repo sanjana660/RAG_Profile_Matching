@@ -1,0 +1,9 @@
+Name: Isabella Rossi
+Summary:
+Business intelligence analyst focused on dashboards and self-serve analytics.
+Skills:
+SQL, Tableau, Power BI, Excel, Python, Reporting, Data Visualization
+Experience:
+7 years supporting executive decision-making.
+Education:
+M.S. in Management Engineering, Politecnico di Milano

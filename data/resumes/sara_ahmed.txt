@@ -1,0 +1,9 @@
+Name: Sara Ahmed
+Summary:
+Research scientist specializing in multilingual NLP and retrieval.
+Skills:
+Python, NLP, Transformers, RAG, PyTorch, Hugging Face, SQL
+Experience:
+5 years in applied AI labs.
+Education:
+Ph.D. in Computational Linguistics, University of Toronto

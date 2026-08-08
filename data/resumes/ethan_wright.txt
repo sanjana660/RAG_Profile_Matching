@@ -1,0 +1,9 @@
+Name: Ethan Wright
+Summary:
+DevOps engineer driving cloud reliability, automation, and observability.
+Skills:
+AWS, Docker, Kubernetes, Terraform, Linux, Python, Prometheus, GitHub Actions
+Experience:
+7 years supporting production systems and CI/CD.
+Education:
+B.S. in Information Systems, Purdue University

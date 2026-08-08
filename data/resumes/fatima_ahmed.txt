@@ -1,0 +1,9 @@
+Name: Fatima Ahmed
+Summary:
+Applied scientist working on NLP, ranking, and search quality evaluation.
+Skills:
+Python, NLP, Transformers, Retrieval, Elasticsearch, SQL, PyTorch
+Experience:
+5 years in search relevance and text understanding.
+Education:
+Ph.D. in Computer Science, University of Edinburgh

@@ -1,0 +1,9 @@
+Name: Mei Lin
+Summary:
+NLP engineer working on search, embeddings, and model evaluation.
+Skills:
+Python, NLP, Embeddings, Retrieval, PyTorch, Hugging Face, SQL
+Experience:
+5 years in applied language technologies.
+Education:
+M.S. in Artificial Intelligence, National University of Singapore

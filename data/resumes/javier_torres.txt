@@ -1,0 +1,9 @@
+Name: Javier Torres
+Summary:
+Backend engineer with event-driven architecture and cloud integration work.
+Skills:
+Go, Java, Kafka, PostgreSQL, AWS, Docker, REST APIs
+Experience:
+7 years building services for logistics and fintech.
+Education:
+B.S. in Computer Science, University of Madrid

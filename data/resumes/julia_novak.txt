@@ -1,0 +1,9 @@
+Name: Julia Novak
+Summary:
+Analytics consultant with data storytelling and operational insights experience.
+Skills:
+SQL, Python, Tableau, Power BI, Forecasting, Stakeholder Management
+Experience:
+5 years advising product and operations teams.
+Education:
+M.A. in Economics, Charles University

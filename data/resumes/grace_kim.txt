@@ -1,0 +1,9 @@
+Name: Grace Kim
+Summary:
+Data scientist with strong experimentation, causal inference, and modeling work.
+Skills:
+Python, SQL, Causal Inference, A/B Testing, scikit-learn, pandas
+Experience:
+6 years in growth analytics and experimentation.
+Education:
+M.S. in Statistics, University of Chicago

@@ -1,0 +1,9 @@
+Name: Priyanka Nair
+Summary:
+Product data scientist bridging experimentation, metrics, and forecasting.
+Skills:
+Python, SQL, Experimentation, Forecasting, Statistics, Tableau, R
+Experience:
+6 years supporting product and growth decisions.
+Education:
+M.S. in Data Science, University of Maryland

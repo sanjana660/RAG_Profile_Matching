@@ -1,0 +1,9 @@
+Name: Noah Wilson
+Summary:
+Site reliability engineer who automates deployments and incident response.
+Skills:
+Kubernetes, Docker, AWS, Terraform, Python, Linux, Observability
+Experience:
+7 years improving uptime for SaaS services.
+Education:
+B.S. in Computer Science, University of Illinois

@@ -1,0 +1,7 @@
+Job Title: Data Engineer
+Must have:
+5+ years Python and SQL
+Spark, Airflow, dbt
+Cloud warehouse experience
+Responsibilities:
+Build reliable pipelines and analytics-ready data layers.

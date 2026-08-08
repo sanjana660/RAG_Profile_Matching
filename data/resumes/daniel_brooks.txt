@@ -1,0 +1,9 @@
+Name: Daniel Brooks
+Summary:
+Software engineer with backend, distributed systems, and API design experience.
+Skills:
+Java, Go, PostgreSQL, Kubernetes, AWS, Microservices, Redis
+Experience:
+8 years building scalable APIs and internal platforms.
+Education:
+B.S. in Computer Engineering, University of Michigan

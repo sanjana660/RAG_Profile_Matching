@@ -1,0 +1,9 @@
+Name: Marcus Lee
+Summary:
+Machine learning engineer with production experience in LLM tooling and APIs.
+Skills:
+Python, TensorFlow, PyTorch, LLMs, Docker, Kubernetes, Azure, SQL
+Experience:
+7 years delivering ML systems for enterprise platforms.
+Education:
+M.S. in Computer Science, Georgia Tech

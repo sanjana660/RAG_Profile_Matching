@@ -1,0 +1,9 @@
+Name: Aisha Khan
+Summary:
+Senior data scientist focused on NLP, recommender systems, and retrieval.
+Skills:
+Python, SQL, Machine Learning, NLP, RAG, scikit-learn, PyTorch, FastAPI, AWS
+Experience:
+6 years building search and analytics systems for SaaS products.
+Education:
+M.S. in Data Science, University of Texas

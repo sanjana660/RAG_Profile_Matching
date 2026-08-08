@@ -1,0 +1,9 @@
+Name: Lucas Ferreira
+Summary:
+Data platform engineer with lakehouse and orchestration expertise.
+Skills:
+Spark, Airflow, dbt, Python, SQL, Databricks, AWS
+Experience:
+5 years building data pipelines.
+Education:
+B.S. in Computer Engineering, University of Sao Paulo

@@ -1,0 +1,9 @@
+Name: Priya Shah
+Summary:
+Analytics engineer focused on metric layers, dashboards, and business intelligence.
+Skills:
+SQL, dbt, Looker, Tableau, Python, Data Modeling, Snowflake
+Experience:
+6 years improving reporting for product and finance teams.
+Education:
+M.S. in Business Analytics, Boston University

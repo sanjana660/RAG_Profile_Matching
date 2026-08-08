@@ -1,0 +1,9 @@
+Name: Helen Wagner
+Summary:
+Business analyst with finance, forecasting, and reporting expertise.
+Skills:
+Excel, SQL, Tableau, Financial Modeling, Forecasting, Python
+Experience:
+9 years partnering with finance and strategy teams.
+Education:
+M.B.A., University of Cologne

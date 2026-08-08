@@ -1,0 +1,9 @@
+Name: Omar Haddad
+Summary:
+ML researcher with ranking, recommendation, and vector search experience.
+Skills:
+Python, Machine Learning, Ranking, Vector Search, PyTorch, Elasticsearch
+Experience:
+8 years in applied machine learning roles.
+Education:
+Ph.D. in Computer Science, KAUST

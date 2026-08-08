@@ -1,0 +1,9 @@
+Name: Raj Mehta
+Summary:
+Senior software engineer with backend, data, and platform experience.
+Skills:
+Java, Python, PostgreSQL, Redis, Microservices, AWS, Kafka
+Experience:
+10 years building enterprise systems.
+Education:
+B.Tech in Computer Engineering, IIT Bombay

@@ -1,0 +1,7 @@
+Job Title: Machine Learning Engineer
+Must have:
+5+ years Python
+PyTorch or TensorFlow
+Docker, Kubernetes, and cloud deployment
+Responsibilities:
+Ship model-serving systems and production ML pipelines.

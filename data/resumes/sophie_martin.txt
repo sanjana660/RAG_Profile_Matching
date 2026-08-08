@@ -1,0 +1,9 @@
+Name: Sophie Martin
+Summary:
+Full stack engineer building React and backend services for customer products.
+Skills:
+JavaScript, React, Node.js, FastAPI, PostgreSQL, Docker, AWS, TypeScript
+Experience:
+5 years across product engineering and platform teams.
+Education:
+B.S. in Software Engineering, École Polytechnique

@@ -1,0 +1,7 @@
+Job Title: Product Analyst
+Must have:
+Strong SQL and dashboarding
+Experimentation and KPI design
+Python for analysis
+Responsibilities:
+Support growth, retention, and decision-making with data.

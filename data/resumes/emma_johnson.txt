@@ -1,0 +1,9 @@
+Name: Emma Johnson
+Summary:
+ML platform engineer building feature stores, training pipelines, and serving APIs.
+Skills:
+Python, MLflow, Airflow, Docker, Kubernetes, AWS, Feature Stores
+Experience:
+6 years shipping ML infrastructure.
+Education:
+M.S. in Computer Science, Carnegie Mellon University

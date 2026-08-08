@@ -1,0 +1,2772 @@
+[
+  {
+    "candidate_name": "Aisha Khan",
+    "resume_path": "data/resumes/aisha_khan.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Aisha Khan",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Fastapi",
+      "Machine Learning",
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Rag",
+      "Scikit-Learn",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Data Science, University of Texas"
+    ],
+    "source_text": "Name: Aisha Khan\nSummary:\nSenior data scientist focused on NLP, recommender systems, and retrieval.\nSkills:\nPython, SQL, Machine Learning, NLP, RAG, scikit-learn, PyTorch, FastAPI, AWS\nExperience:\n6 years building search and analytics systems for SaaS products.\nEducation:\nM.S. in Data Science, University of Texas\n"
+  },
+  {
+    "candidate_name": "Aisha Khan",
+    "resume_path": "data/resumes/aisha_khan.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Senior data scientist focused on NLP, recommender systems, and retrieval.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Fastapi",
+      "Machine Learning",
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Rag",
+      "Scikit-Learn",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Data Science, University of Texas"
+    ],
+    "source_text": "Name: Aisha Khan\nSummary:\nSenior data scientist focused on NLP, recommender systems, and retrieval.\nSkills:\nPython, SQL, Machine Learning, NLP, RAG, scikit-learn, PyTorch, FastAPI, AWS\nExperience:\n6 years building search and analytics systems for SaaS products.\nEducation:\nM.S. in Data Science, University of Texas\n"
+  },
+  {
+    "candidate_name": "Aisha Khan",
+    "resume_path": "data/resumes/aisha_khan.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Python, SQL, Machine Learning, NLP, RAG, scikit-learn, PyTorch, FastAPI, AWS",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Fastapi",
+      "Machine Learning",
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Rag",
+      "Scikit-Learn",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Data Science, University of Texas"
+    ],
+    "source_text": "Name: Aisha Khan\nSummary:\nSenior data scientist focused on NLP, recommender systems, and retrieval.\nSkills:\nPython, SQL, Machine Learning, NLP, RAG, scikit-learn, PyTorch, FastAPI, AWS\nExperience:\n6 years building search and analytics systems for SaaS products.\nEducation:\nM.S. in Data Science, University of Texas\n"
+  },
+  {
+    "candidate_name": "Aisha Khan",
+    "resume_path": "data/resumes/aisha_khan.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 6 years building search and analytics systems for SaaS products.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Fastapi",
+      "Machine Learning",
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Rag",
+      "Scikit-Learn",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Data Science, University of Texas"
+    ],
+    "source_text": "Name: Aisha Khan\nSummary:\nSenior data scientist focused on NLP, recommender systems, and retrieval.\nSkills:\nPython, SQL, Machine Learning, NLP, RAG, scikit-learn, PyTorch, FastAPI, AWS\nExperience:\n6 years building search and analytics systems for SaaS products.\nEducation:\nM.S. in Data Science, University of Texas\n"
+  },
+  {
+    "candidate_name": "Aisha Khan",
+    "resume_path": "data/resumes/aisha_khan.txt",
+    "section": "education",
+    "chunk_text": "Education: M.S. in Data Science, University of Texas",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Fastapi",
+      "Machine Learning",
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Rag",
+      "Scikit-Learn",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Data Science, University of Texas"
+    ],
+    "source_text": "Name: Aisha Khan\nSummary:\nSenior data scientist focused on NLP, recommender systems, and retrieval.\nSkills:\nPython, SQL, Machine Learning, NLP, RAG, scikit-learn, PyTorch, FastAPI, AWS\nExperience:\n6 years building search and analytics systems for SaaS products.\nEducation:\nM.S. in Data Science, University of Texas\n"
+  },
+  {
+    "candidate_name": "Andre Silva",
+    "resume_path": "data/resumes/andre_silva.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Andre Silva",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Fastapi",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Engineering, Federal University of Rio de Janeiro"
+    ],
+    "source_text": "Name: Andre Silva\nSummary:\nBackend engineer focused on APIs, pipelines, and cloud-native delivery.\nSkills:\nPython, FastAPI, PostgreSQL, AWS, Docker, Kafka, SQL\nExperience:\n7 years working on distributed services.\nEducation:\nB.S. in Computer Engineering, Federal University of Rio de Janeiro\n"
+  },
+  {
+    "candidate_name": "Andre Silva",
+    "resume_path": "data/resumes/andre_silva.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Backend engineer focused on APIs, pipelines, and cloud-native delivery.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Fastapi",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Engineering, Federal University of Rio de Janeiro"
+    ],
+    "source_text": "Name: Andre Silva\nSummary:\nBackend engineer focused on APIs, pipelines, and cloud-native delivery.\nSkills:\nPython, FastAPI, PostgreSQL, AWS, Docker, Kafka, SQL\nExperience:\n7 years working on distributed services.\nEducation:\nB.S. in Computer Engineering, Federal University of Rio de Janeiro\n"
+  },
+  {
+    "candidate_name": "Andre Silva",
+    "resume_path": "data/resumes/andre_silva.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Python, FastAPI, PostgreSQL, AWS, Docker, Kafka, SQL",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Fastapi",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Engineering, Federal University of Rio de Janeiro"
+    ],
+    "source_text": "Name: Andre Silva\nSummary:\nBackend engineer focused on APIs, pipelines, and cloud-native delivery.\nSkills:\nPython, FastAPI, PostgreSQL, AWS, Docker, Kafka, SQL\nExperience:\n7 years working on distributed services.\nEducation:\nB.S. in Computer Engineering, Federal University of Rio de Janeiro\n"
+  },
+  {
+    "candidate_name": "Andre Silva",
+    "resume_path": "data/resumes/andre_silva.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 7 years working on distributed services.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Fastapi",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Engineering, Federal University of Rio de Janeiro"
+    ],
+    "source_text": "Name: Andre Silva\nSummary:\nBackend engineer focused on APIs, pipelines, and cloud-native delivery.\nSkills:\nPython, FastAPI, PostgreSQL, AWS, Docker, Kafka, SQL\nExperience:\n7 years working on distributed services.\nEducation:\nB.S. in Computer Engineering, Federal University of Rio de Janeiro\n"
+  },
+  {
+    "candidate_name": "Andre Silva",
+    "resume_path": "data/resumes/andre_silva.txt",
+    "section": "education",
+    "chunk_text": "Education: B.S. in Computer Engineering, Federal University of Rio de Janeiro",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Fastapi",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Engineering, Federal University of Rio de Janeiro"
+    ],
+    "source_text": "Name: Andre Silva\nSummary:\nBackend engineer focused on APIs, pipelines, and cloud-native delivery.\nSkills:\nPython, FastAPI, PostgreSQL, AWS, Docker, Kafka, SQL\nExperience:\n7 years working on distributed services.\nEducation:\nB.S. in Computer Engineering, Federal University of Rio de Janeiro\n"
+  },
+  {
+    "candidate_name": "Carlos Rivera",
+    "resume_path": "data/resumes/carlos_rivera.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Carlos Rivera",
+    "chunk_index": 0,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.S. in Statistics, University of Florida"
+    ],
+    "source_text": "Name: Carlos Rivera\nSummary:\nData analyst with strong storytelling skills and operational reporting experience.\nSkills:\nSQL, Excel, Power BI, Python, KPI Reporting, Forecasting, Looker\nExperience:\n4 years supporting sales and operations.\nEducation:\nB.S. in Statistics, University of Florida\n"
+  },
+  {
+    "candidate_name": "Carlos Rivera",
+    "resume_path": "data/resumes/carlos_rivera.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Data analyst with strong storytelling skills and operational reporting experience.",
+    "chunk_index": 1,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.S. in Statistics, University of Florida"
+    ],
+    "source_text": "Name: Carlos Rivera\nSummary:\nData analyst with strong storytelling skills and operational reporting experience.\nSkills:\nSQL, Excel, Power BI, Python, KPI Reporting, Forecasting, Looker\nExperience:\n4 years supporting sales and operations.\nEducation:\nB.S. in Statistics, University of Florida\n"
+  },
+  {
+    "candidate_name": "Carlos Rivera",
+    "resume_path": "data/resumes/carlos_rivera.txt",
+    "section": "skills",
+    "chunk_text": "Skills: SQL, Excel, Power BI, Python, KPI Reporting, Forecasting, Looker",
+    "chunk_index": 2,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.S. in Statistics, University of Florida"
+    ],
+    "source_text": "Name: Carlos Rivera\nSummary:\nData analyst with strong storytelling skills and operational reporting experience.\nSkills:\nSQL, Excel, Power BI, Python, KPI Reporting, Forecasting, Looker\nExperience:\n4 years supporting sales and operations.\nEducation:\nB.S. in Statistics, University of Florida\n"
+  },
+  {
+    "candidate_name": "Carlos Rivera",
+    "resume_path": "data/resumes/carlos_rivera.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 4 years supporting sales and operations.",
+    "chunk_index": 3,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.S. in Statistics, University of Florida"
+    ],
+    "source_text": "Name: Carlos Rivera\nSummary:\nData analyst with strong storytelling skills and operational reporting experience.\nSkills:\nSQL, Excel, Power BI, Python, KPI Reporting, Forecasting, Looker\nExperience:\n4 years supporting sales and operations.\nEducation:\nB.S. in Statistics, University of Florida\n"
+  },
+  {
+    "candidate_name": "Carlos Rivera",
+    "resume_path": "data/resumes/carlos_rivera.txt",
+    "section": "education",
+    "chunk_text": "Education: B.S. in Statistics, University of Florida",
+    "chunk_index": 4,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.S. in Statistics, University of Florida"
+    ],
+    "source_text": "Name: Carlos Rivera\nSummary:\nData analyst with strong storytelling skills and operational reporting experience.\nSkills:\nSQL, Excel, Power BI, Python, KPI Reporting, Forecasting, Looker\nExperience:\n4 years supporting sales and operations.\nEducation:\nB.S. in Statistics, University of Florida\n"
+  },
+  {
+    "candidate_name": "Chloe Davis",
+    "resume_path": "data/resumes/chloe_davis.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Chloe Davis",
+    "chunk_index": 0,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.A. in Mathematics, University of Manchester"
+    ],
+    "source_text": "Name: Chloe Davis\nSummary:\nOperations analyst with KPI tracking, dashboards, and process improvement.\nSkills:\nSQL, Tableau, Excel, Python, Process Improvement, Reporting\nExperience:\n4 years working with operations and support teams.\nEducation:\nB.A. in Mathematics, University of Manchester\n"
+  },
+  {
+    "candidate_name": "Chloe Davis",
+    "resume_path": "data/resumes/chloe_davis.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Operations analyst with KPI tracking, dashboards, and process improvement.",
+    "chunk_index": 1,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.A. in Mathematics, University of Manchester"
+    ],
+    "source_text": "Name: Chloe Davis\nSummary:\nOperations analyst with KPI tracking, dashboards, and process improvement.\nSkills:\nSQL, Tableau, Excel, Python, Process Improvement, Reporting\nExperience:\n4 years working with operations and support teams.\nEducation:\nB.A. in Mathematics, University of Manchester\n"
+  },
+  {
+    "candidate_name": "Chloe Davis",
+    "resume_path": "data/resumes/chloe_davis.txt",
+    "section": "skills",
+    "chunk_text": "Skills: SQL, Tableau, Excel, Python, Process Improvement, Reporting",
+    "chunk_index": 2,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.A. in Mathematics, University of Manchester"
+    ],
+    "source_text": "Name: Chloe Davis\nSummary:\nOperations analyst with KPI tracking, dashboards, and process improvement.\nSkills:\nSQL, Tableau, Excel, Python, Process Improvement, Reporting\nExperience:\n4 years working with operations and support teams.\nEducation:\nB.A. in Mathematics, University of Manchester\n"
+  },
+  {
+    "candidate_name": "Chloe Davis",
+    "resume_path": "data/resumes/chloe_davis.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 4 years working with operations and support teams.",
+    "chunk_index": 3,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.A. in Mathematics, University of Manchester"
+    ],
+    "source_text": "Name: Chloe Davis\nSummary:\nOperations analyst with KPI tracking, dashboards, and process improvement.\nSkills:\nSQL, Tableau, Excel, Python, Process Improvement, Reporting\nExperience:\n4 years working with operations and support teams.\nEducation:\nB.A. in Mathematics, University of Manchester\n"
+  },
+  {
+    "candidate_name": "Chloe Davis",
+    "resume_path": "data/resumes/chloe_davis.txt",
+    "section": "education",
+    "chunk_text": "Education: B.A. in Mathematics, University of Manchester",
+    "chunk_index": 4,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.A. in Mathematics, University of Manchester"
+    ],
+    "source_text": "Name: Chloe Davis\nSummary:\nOperations analyst with KPI tracking, dashboards, and process improvement.\nSkills:\nSQL, Tableau, Excel, Python, Process Improvement, Reporting\nExperience:\n4 years working with operations and support teams.\nEducation:\nB.A. in Mathematics, University of Manchester\n"
+  },
+  {
+    "candidate_name": "Daniel Brooks",
+    "resume_path": "data/resumes/daniel_brooks.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Daniel Brooks",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Go",
+      "Java",
+      "Kubernetes",
+      "Sql"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "B.S. in Computer Engineering, University of Michigan"
+    ],
+    "source_text": "Name: Daniel Brooks\nSummary:\nSoftware engineer with backend, distributed systems, and API design experience.\nSkills:\nJava, Go, PostgreSQL, Kubernetes, AWS, Microservices, Redis\nExperience:\n8 years building scalable APIs and internal platforms.\nEducation:\nB.S. in Computer Engineering, University of Michigan\n"
+  },
+  {
+    "candidate_name": "Daniel Brooks",
+    "resume_path": "data/resumes/daniel_brooks.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Software engineer with backend, distributed systems, and API design experience.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Go",
+      "Java",
+      "Kubernetes",
+      "Sql"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "B.S. in Computer Engineering, University of Michigan"
+    ],
+    "source_text": "Name: Daniel Brooks\nSummary:\nSoftware engineer with backend, distributed systems, and API design experience.\nSkills:\nJava, Go, PostgreSQL, Kubernetes, AWS, Microservices, Redis\nExperience:\n8 years building scalable APIs and internal platforms.\nEducation:\nB.S. in Computer Engineering, University of Michigan\n"
+  },
+  {
+    "candidate_name": "Daniel Brooks",
+    "resume_path": "data/resumes/daniel_brooks.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Java, Go, PostgreSQL, Kubernetes, AWS, Microservices, Redis",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Go",
+      "Java",
+      "Kubernetes",
+      "Sql"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "B.S. in Computer Engineering, University of Michigan"
+    ],
+    "source_text": "Name: Daniel Brooks\nSummary:\nSoftware engineer with backend, distributed systems, and API design experience.\nSkills:\nJava, Go, PostgreSQL, Kubernetes, AWS, Microservices, Redis\nExperience:\n8 years building scalable APIs and internal platforms.\nEducation:\nB.S. in Computer Engineering, University of Michigan\n"
+  },
+  {
+    "candidate_name": "Daniel Brooks",
+    "resume_path": "data/resumes/daniel_brooks.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 8 years building scalable APIs and internal platforms.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Go",
+      "Java",
+      "Kubernetes",
+      "Sql"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "B.S. in Computer Engineering, University of Michigan"
+    ],
+    "source_text": "Name: Daniel Brooks\nSummary:\nSoftware engineer with backend, distributed systems, and API design experience.\nSkills:\nJava, Go, PostgreSQL, Kubernetes, AWS, Microservices, Redis\nExperience:\n8 years building scalable APIs and internal platforms.\nEducation:\nB.S. in Computer Engineering, University of Michigan\n"
+  },
+  {
+    "candidate_name": "Daniel Brooks",
+    "resume_path": "data/resumes/daniel_brooks.txt",
+    "section": "education",
+    "chunk_text": "Education: B.S. in Computer Engineering, University of Michigan",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Go",
+      "Java",
+      "Kubernetes",
+      "Sql"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "B.S. in Computer Engineering, University of Michigan"
+    ],
+    "source_text": "Name: Daniel Brooks\nSummary:\nSoftware engineer with backend, distributed systems, and API design experience.\nSkills:\nJava, Go, PostgreSQL, Kubernetes, AWS, Microservices, Redis\nExperience:\n8 years building scalable APIs and internal platforms.\nEducation:\nB.S. in Computer Engineering, University of Michigan\n"
+  },
+  {
+    "candidate_name": "Emma Johnson",
+    "resume_path": "data/resumes/emma_johnson.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Emma Johnson",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Computer Science, Carnegie Mellon University"
+    ],
+    "source_text": "Name: Emma Johnson\nSummary:\nML platform engineer building feature stores, training pipelines, and serving APIs.\nSkills:\nPython, MLflow, Airflow, Docker, Kubernetes, AWS, Feature Stores\nExperience:\n6 years shipping ML infrastructure.\nEducation:\nM.S. in Computer Science, Carnegie Mellon University\n"
+  },
+  {
+    "candidate_name": "Emma Johnson",
+    "resume_path": "data/resumes/emma_johnson.txt",
+    "section": "summary",
+    "chunk_text": "Summary: ML platform engineer building feature stores, training pipelines, and serving APIs.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Computer Science, Carnegie Mellon University"
+    ],
+    "source_text": "Name: Emma Johnson\nSummary:\nML platform engineer building feature stores, training pipelines, and serving APIs.\nSkills:\nPython, MLflow, Airflow, Docker, Kubernetes, AWS, Feature Stores\nExperience:\n6 years shipping ML infrastructure.\nEducation:\nM.S. in Computer Science, Carnegie Mellon University\n"
+  },
+  {
+    "candidate_name": "Emma Johnson",
+    "resume_path": "data/resumes/emma_johnson.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Python, MLflow, Airflow, Docker, Kubernetes, AWS, Feature Stores",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Computer Science, Carnegie Mellon University"
+    ],
+    "source_text": "Name: Emma Johnson\nSummary:\nML platform engineer building feature stores, training pipelines, and serving APIs.\nSkills:\nPython, MLflow, Airflow, Docker, Kubernetes, AWS, Feature Stores\nExperience:\n6 years shipping ML infrastructure.\nEducation:\nM.S. in Computer Science, Carnegie Mellon University\n"
+  },
+  {
+    "candidate_name": "Emma Johnson",
+    "resume_path": "data/resumes/emma_johnson.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 6 years shipping ML infrastructure.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Computer Science, Carnegie Mellon University"
+    ],
+    "source_text": "Name: Emma Johnson\nSummary:\nML platform engineer building feature stores, training pipelines, and serving APIs.\nSkills:\nPython, MLflow, Airflow, Docker, Kubernetes, AWS, Feature Stores\nExperience:\n6 years shipping ML infrastructure.\nEducation:\nM.S. in Computer Science, Carnegie Mellon University\n"
+  },
+  {
+    "candidate_name": "Emma Johnson",
+    "resume_path": "data/resumes/emma_johnson.txt",
+    "section": "education",
+    "chunk_text": "Education: M.S. in Computer Science, Carnegie Mellon University",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Computer Science, Carnegie Mellon University"
+    ],
+    "source_text": "Name: Emma Johnson\nSummary:\nML platform engineer building feature stores, training pipelines, and serving APIs.\nSkills:\nPython, MLflow, Airflow, Docker, Kubernetes, AWS, Feature Stores\nExperience:\n6 years shipping ML infrastructure.\nEducation:\nM.S. in Computer Science, Carnegie Mellon University\n"
+  },
+  {
+    "candidate_name": "Ethan Wright",
+    "resume_path": "data/resumes/ethan_wright.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Ethan Wright",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Information Systems, Purdue University"
+    ],
+    "source_text": "Name: Ethan Wright\nSummary:\nDevOps engineer driving cloud reliability, automation, and observability.\nSkills:\nAWS, Docker, Kubernetes, Terraform, Linux, Python, Prometheus, GitHub Actions\nExperience:\n7 years supporting production systems and CI/CD.\nEducation:\nB.S. in Information Systems, Purdue University\n"
+  },
+  {
+    "candidate_name": "Ethan Wright",
+    "resume_path": "data/resumes/ethan_wright.txt",
+    "section": "summary",
+    "chunk_text": "Summary: DevOps engineer driving cloud reliability, automation, and observability.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Information Systems, Purdue University"
+    ],
+    "source_text": "Name: Ethan Wright\nSummary:\nDevOps engineer driving cloud reliability, automation, and observability.\nSkills:\nAWS, Docker, Kubernetes, Terraform, Linux, Python, Prometheus, GitHub Actions\nExperience:\n7 years supporting production systems and CI/CD.\nEducation:\nB.S. in Information Systems, Purdue University\n"
+  },
+  {
+    "candidate_name": "Ethan Wright",
+    "resume_path": "data/resumes/ethan_wright.txt",
+    "section": "skills",
+    "chunk_text": "Skills: AWS, Docker, Kubernetes, Terraform, Linux, Python, Prometheus, GitHub Actions",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Information Systems, Purdue University"
+    ],
+    "source_text": "Name: Ethan Wright\nSummary:\nDevOps engineer driving cloud reliability, automation, and observability.\nSkills:\nAWS, Docker, Kubernetes, Terraform, Linux, Python, Prometheus, GitHub Actions\nExperience:\n7 years supporting production systems and CI/CD.\nEducation:\nB.S. in Information Systems, Purdue University\n"
+  },
+  {
+    "candidate_name": "Ethan Wright",
+    "resume_path": "data/resumes/ethan_wright.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 7 years supporting production systems and CI/CD.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Information Systems, Purdue University"
+    ],
+    "source_text": "Name: Ethan Wright\nSummary:\nDevOps engineer driving cloud reliability, automation, and observability.\nSkills:\nAWS, Docker, Kubernetes, Terraform, Linux, Python, Prometheus, GitHub Actions\nExperience:\n7 years supporting production systems and CI/CD.\nEducation:\nB.S. in Information Systems, Purdue University\n"
+  },
+  {
+    "candidate_name": "Ethan Wright",
+    "resume_path": "data/resumes/ethan_wright.txt",
+    "section": "education",
+    "chunk_text": "Education: B.S. in Information Systems, Purdue University",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Information Systems, Purdue University"
+    ],
+    "source_text": "Name: Ethan Wright\nSummary:\nDevOps engineer driving cloud reliability, automation, and observability.\nSkills:\nAWS, Docker, Kubernetes, Terraform, Linux, Python, Prometheus, GitHub Actions\nExperience:\n7 years supporting production systems and CI/CD.\nEducation:\nB.S. in Information Systems, Purdue University\n"
+  },
+  {
+    "candidate_name": "Fatima Ahmed",
+    "resume_path": "data/resumes/fatima_ahmed.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Fatima Ahmed",
+    "chunk_index": 0,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "Ph.D. in Computer Science, University of Edinburgh"
+    ],
+    "source_text": "Name: Fatima Ahmed\nSummary:\nApplied scientist working on NLP, ranking, and search quality evaluation.\nSkills:\nPython, NLP, Transformers, Retrieval, Elasticsearch, SQL, PyTorch\nExperience:\n5 years in search relevance and text understanding.\nEducation:\nPh.D. in Computer Science, University of Edinburgh\n"
+  },
+  {
+    "candidate_name": "Fatima Ahmed",
+    "resume_path": "data/resumes/fatima_ahmed.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Applied scientist working on NLP, ranking, and search quality evaluation.",
+    "chunk_index": 1,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "Ph.D. in Computer Science, University of Edinburgh"
+    ],
+    "source_text": "Name: Fatima Ahmed\nSummary:\nApplied scientist working on NLP, ranking, and search quality evaluation.\nSkills:\nPython, NLP, Transformers, Retrieval, Elasticsearch, SQL, PyTorch\nExperience:\n5 years in search relevance and text understanding.\nEducation:\nPh.D. in Computer Science, University of Edinburgh\n"
+  },
+  {
+    "candidate_name": "Fatima Ahmed",
+    "resume_path": "data/resumes/fatima_ahmed.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Python, NLP, Transformers, Retrieval, Elasticsearch, SQL, PyTorch",
+    "chunk_index": 2,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "Ph.D. in Computer Science, University of Edinburgh"
+    ],
+    "source_text": "Name: Fatima Ahmed\nSummary:\nApplied scientist working on NLP, ranking, and search quality evaluation.\nSkills:\nPython, NLP, Transformers, Retrieval, Elasticsearch, SQL, PyTorch\nExperience:\n5 years in search relevance and text understanding.\nEducation:\nPh.D. in Computer Science, University of Edinburgh\n"
+  },
+  {
+    "candidate_name": "Fatima Ahmed",
+    "resume_path": "data/resumes/fatima_ahmed.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 5 years in search relevance and text understanding.",
+    "chunk_index": 3,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "Ph.D. in Computer Science, University of Edinburgh"
+    ],
+    "source_text": "Name: Fatima Ahmed\nSummary:\nApplied scientist working on NLP, ranking, and search quality evaluation.\nSkills:\nPython, NLP, Transformers, Retrieval, Elasticsearch, SQL, PyTorch\nExperience:\n5 years in search relevance and text understanding.\nEducation:\nPh.D. in Computer Science, University of Edinburgh\n"
+  },
+  {
+    "candidate_name": "Fatima Ahmed",
+    "resume_path": "data/resumes/fatima_ahmed.txt",
+    "section": "education",
+    "chunk_text": "Education: Ph.D. in Computer Science, University of Edinburgh",
+    "chunk_index": 4,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "Ph.D. in Computer Science, University of Edinburgh"
+    ],
+    "source_text": "Name: Fatima Ahmed\nSummary:\nApplied scientist working on NLP, ranking, and search quality evaluation.\nSkills:\nPython, NLP, Transformers, Retrieval, Elasticsearch, SQL, PyTorch\nExperience:\n5 years in search relevance and text understanding.\nEducation:\nPh.D. in Computer Science, University of Edinburgh\n"
+  },
+  {
+    "candidate_name": "Grace Kim",
+    "resume_path": "data/resumes/grace_kim.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Grace Kim",
+    "chunk_index": 0,
+    "skills": [
+      "Go",
+      "Pandas",
+      "Python",
+      "Scikit-Learn",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Statistics, University of Chicago"
+    ],
+    "source_text": "Name: Grace Kim\nSummary:\nData scientist with strong experimentation, causal inference, and modeling work.\nSkills:\nPython, SQL, Causal Inference, A/B Testing, scikit-learn, pandas\nExperience:\n6 years in growth analytics and experimentation.\nEducation:\nM.S. in Statistics, University of Chicago\n"
+  },
+  {
+    "candidate_name": "Grace Kim",
+    "resume_path": "data/resumes/grace_kim.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Data scientist with strong experimentation, causal inference, and modeling work.",
+    "chunk_index": 1,
+    "skills": [
+      "Go",
+      "Pandas",
+      "Python",
+      "Scikit-Learn",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Statistics, University of Chicago"
+    ],
+    "source_text": "Name: Grace Kim\nSummary:\nData scientist with strong experimentation, causal inference, and modeling work.\nSkills:\nPython, SQL, Causal Inference, A/B Testing, scikit-learn, pandas\nExperience:\n6 years in growth analytics and experimentation.\nEducation:\nM.S. in Statistics, University of Chicago\n"
+  },
+  {
+    "candidate_name": "Grace Kim",
+    "resume_path": "data/resumes/grace_kim.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Python, SQL, Causal Inference, A/B Testing, scikit-learn, pandas",
+    "chunk_index": 2,
+    "skills": [
+      "Go",
+      "Pandas",
+      "Python",
+      "Scikit-Learn",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Statistics, University of Chicago"
+    ],
+    "source_text": "Name: Grace Kim\nSummary:\nData scientist with strong experimentation, causal inference, and modeling work.\nSkills:\nPython, SQL, Causal Inference, A/B Testing, scikit-learn, pandas\nExperience:\n6 years in growth analytics and experimentation.\nEducation:\nM.S. in Statistics, University of Chicago\n"
+  },
+  {
+    "candidate_name": "Grace Kim",
+    "resume_path": "data/resumes/grace_kim.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 6 years in growth analytics and experimentation.",
+    "chunk_index": 3,
+    "skills": [
+      "Go",
+      "Pandas",
+      "Python",
+      "Scikit-Learn",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Statistics, University of Chicago"
+    ],
+    "source_text": "Name: Grace Kim\nSummary:\nData scientist with strong experimentation, causal inference, and modeling work.\nSkills:\nPython, SQL, Causal Inference, A/B Testing, scikit-learn, pandas\nExperience:\n6 years in growth analytics and experimentation.\nEducation:\nM.S. in Statistics, University of Chicago\n"
+  },
+  {
+    "candidate_name": "Grace Kim",
+    "resume_path": "data/resumes/grace_kim.txt",
+    "section": "education",
+    "chunk_text": "Education: M.S. in Statistics, University of Chicago",
+    "chunk_index": 4,
+    "skills": [
+      "Go",
+      "Pandas",
+      "Python",
+      "Scikit-Learn",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Statistics, University of Chicago"
+    ],
+    "source_text": "Name: Grace Kim\nSummary:\nData scientist with strong experimentation, causal inference, and modeling work.\nSkills:\nPython, SQL, Causal Inference, A/B Testing, scikit-learn, pandas\nExperience:\n6 years in growth analytics and experimentation.\nEducation:\nM.S. in Statistics, University of Chicago\n"
+  },
+  {
+    "candidate_name": "Helen Wagner",
+    "resume_path": "data/resumes/helen_wagner.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Helen Wagner",
+    "chunk_index": 0,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 9.0,
+    "education": [
+      "M.B.A., University of Cologne"
+    ],
+    "source_text": "Name: Helen Wagner\nSummary:\nBusiness analyst with finance, forecasting, and reporting expertise.\nSkills:\nExcel, SQL, Tableau, Financial Modeling, Forecasting, Python\nExperience:\n9 years partnering with finance and strategy teams.\nEducation:\nM.B.A., University of Cologne\n"
+  },
+  {
+    "candidate_name": "Helen Wagner",
+    "resume_path": "data/resumes/helen_wagner.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Business analyst with finance, forecasting, and reporting expertise.",
+    "chunk_index": 1,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 9.0,
+    "education": [
+      "M.B.A., University of Cologne"
+    ],
+    "source_text": "Name: Helen Wagner\nSummary:\nBusiness analyst with finance, forecasting, and reporting expertise.\nSkills:\nExcel, SQL, Tableau, Financial Modeling, Forecasting, Python\nExperience:\n9 years partnering with finance and strategy teams.\nEducation:\nM.B.A., University of Cologne\n"
+  },
+  {
+    "candidate_name": "Helen Wagner",
+    "resume_path": "data/resumes/helen_wagner.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Excel, SQL, Tableau, Financial Modeling, Forecasting, Python",
+    "chunk_index": 2,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 9.0,
+    "education": [
+      "M.B.A., University of Cologne"
+    ],
+    "source_text": "Name: Helen Wagner\nSummary:\nBusiness analyst with finance, forecasting, and reporting expertise.\nSkills:\nExcel, SQL, Tableau, Financial Modeling, Forecasting, Python\nExperience:\n9 years partnering with finance and strategy teams.\nEducation:\nM.B.A., University of Cologne\n"
+  },
+  {
+    "candidate_name": "Helen Wagner",
+    "resume_path": "data/resumes/helen_wagner.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 9 years partnering with finance and strategy teams.",
+    "chunk_index": 3,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 9.0,
+    "education": [
+      "M.B.A., University of Cologne"
+    ],
+    "source_text": "Name: Helen Wagner\nSummary:\nBusiness analyst with finance, forecasting, and reporting expertise.\nSkills:\nExcel, SQL, Tableau, Financial Modeling, Forecasting, Python\nExperience:\n9 years partnering with finance and strategy teams.\nEducation:\nM.B.A., University of Cologne\n"
+  },
+  {
+    "candidate_name": "Helen Wagner",
+    "resume_path": "data/resumes/helen_wagner.txt",
+    "section": "education",
+    "chunk_text": "Education: M.B.A., University of Cologne",
+    "chunk_index": 4,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 9.0,
+    "education": [
+      "M.B.A., University of Cologne"
+    ],
+    "source_text": "Name: Helen Wagner\nSummary:\nBusiness analyst with finance, forecasting, and reporting expertise.\nSkills:\nExcel, SQL, Tableau, Financial Modeling, Forecasting, Python\nExperience:\n9 years partnering with finance and strategy teams.\nEducation:\nM.B.A., University of Cologne\n"
+  },
+  {
+    "candidate_name": "Isabella Rossi",
+    "resume_path": "data/resumes/isabella_rossi.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Isabella Rossi",
+    "chunk_index": 0,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "M.S. in Management Engineering, Politecnico di Milano"
+    ],
+    "source_text": "Name: Isabella Rossi\nSummary:\nBusiness intelligence analyst focused on dashboards and self-serve analytics.\nSkills:\nSQL, Tableau, Power BI, Excel, Python, Reporting, Data Visualization\nExperience:\n7 years supporting executive decision-making.\nEducation:\nM.S. in Management Engineering, Politecnico di Milano\n"
+  },
+  {
+    "candidate_name": "Isabella Rossi",
+    "resume_path": "data/resumes/isabella_rossi.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Business intelligence analyst focused on dashboards and self-serve analytics.",
+    "chunk_index": 1,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "M.S. in Management Engineering, Politecnico di Milano"
+    ],
+    "source_text": "Name: Isabella Rossi\nSummary:\nBusiness intelligence analyst focused on dashboards and self-serve analytics.\nSkills:\nSQL, Tableau, Power BI, Excel, Python, Reporting, Data Visualization\nExperience:\n7 years supporting executive decision-making.\nEducation:\nM.S. in Management Engineering, Politecnico di Milano\n"
+  },
+  {
+    "candidate_name": "Isabella Rossi",
+    "resume_path": "data/resumes/isabella_rossi.txt",
+    "section": "skills",
+    "chunk_text": "Skills: SQL, Tableau, Power BI, Excel, Python, Reporting, Data Visualization",
+    "chunk_index": 2,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "M.S. in Management Engineering, Politecnico di Milano"
+    ],
+    "source_text": "Name: Isabella Rossi\nSummary:\nBusiness intelligence analyst focused on dashboards and self-serve analytics.\nSkills:\nSQL, Tableau, Power BI, Excel, Python, Reporting, Data Visualization\nExperience:\n7 years supporting executive decision-making.\nEducation:\nM.S. in Management Engineering, Politecnico di Milano\n"
+  },
+  {
+    "candidate_name": "Isabella Rossi",
+    "resume_path": "data/resumes/isabella_rossi.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 7 years supporting executive decision-making.",
+    "chunk_index": 3,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "M.S. in Management Engineering, Politecnico di Milano"
+    ],
+    "source_text": "Name: Isabella Rossi\nSummary:\nBusiness intelligence analyst focused on dashboards and self-serve analytics.\nSkills:\nSQL, Tableau, Power BI, Excel, Python, Reporting, Data Visualization\nExperience:\n7 years supporting executive decision-making.\nEducation:\nM.S. in Management Engineering, Politecnico di Milano\n"
+  },
+  {
+    "candidate_name": "Isabella Rossi",
+    "resume_path": "data/resumes/isabella_rossi.txt",
+    "section": "education",
+    "chunk_text": "Education: M.S. in Management Engineering, Politecnico di Milano",
+    "chunk_index": 4,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "M.S. in Management Engineering, Politecnico di Milano"
+    ],
+    "source_text": "Name: Isabella Rossi\nSummary:\nBusiness intelligence analyst focused on dashboards and self-serve analytics.\nSkills:\nSQL, Tableau, Power BI, Excel, Python, Reporting, Data Visualization\nExperience:\n7 years supporting executive decision-making.\nEducation:\nM.S. in Management Engineering, Politecnico di Milano\n"
+  },
+  {
+    "candidate_name": "Javier Torres",
+    "resume_path": "data/resumes/javier_torres.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Javier Torres",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Go",
+      "Java",
+      "Sql"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Science, University of Madrid"
+    ],
+    "source_text": "Name: Javier Torres\nSummary:\nBackend engineer with event-driven architecture and cloud integration work.\nSkills:\nGo, Java, Kafka, PostgreSQL, AWS, Docker, REST APIs\nExperience:\n7 years building services for logistics and fintech.\nEducation:\nB.S. in Computer Science, University of Madrid\n"
+  },
+  {
+    "candidate_name": "Javier Torres",
+    "resume_path": "data/resumes/javier_torres.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Backend engineer with event-driven architecture and cloud integration work.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Go",
+      "Java",
+      "Sql"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Science, University of Madrid"
+    ],
+    "source_text": "Name: Javier Torres\nSummary:\nBackend engineer with event-driven architecture and cloud integration work.\nSkills:\nGo, Java, Kafka, PostgreSQL, AWS, Docker, REST APIs\nExperience:\n7 years building services for logistics and fintech.\nEducation:\nB.S. in Computer Science, University of Madrid\n"
+  },
+  {
+    "candidate_name": "Javier Torres",
+    "resume_path": "data/resumes/javier_torres.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Go, Java, Kafka, PostgreSQL, AWS, Docker, REST APIs",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Go",
+      "Java",
+      "Sql"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Science, University of Madrid"
+    ],
+    "source_text": "Name: Javier Torres\nSummary:\nBackend engineer with event-driven architecture and cloud integration work.\nSkills:\nGo, Java, Kafka, PostgreSQL, AWS, Docker, REST APIs\nExperience:\n7 years building services for logistics and fintech.\nEducation:\nB.S. in Computer Science, University of Madrid\n"
+  },
+  {
+    "candidate_name": "Javier Torres",
+    "resume_path": "data/resumes/javier_torres.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 7 years building services for logistics and fintech.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Go",
+      "Java",
+      "Sql"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Science, University of Madrid"
+    ],
+    "source_text": "Name: Javier Torres\nSummary:\nBackend engineer with event-driven architecture and cloud integration work.\nSkills:\nGo, Java, Kafka, PostgreSQL, AWS, Docker, REST APIs\nExperience:\n7 years building services for logistics and fintech.\nEducation:\nB.S. in Computer Science, University of Madrid\n"
+  },
+  {
+    "candidate_name": "Javier Torres",
+    "resume_path": "data/resumes/javier_torres.txt",
+    "section": "education",
+    "chunk_text": "Education: B.S. in Computer Science, University of Madrid",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Go",
+      "Java",
+      "Sql"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Science, University of Madrid"
+    ],
+    "source_text": "Name: Javier Torres\nSummary:\nBackend engineer with event-driven architecture and cloud integration work.\nSkills:\nGo, Java, Kafka, PostgreSQL, AWS, Docker, REST APIs\nExperience:\n7 years building services for logistics and fintech.\nEducation:\nB.S. in Computer Science, University of Madrid\n"
+  },
+  {
+    "candidate_name": "Julia Novak",
+    "resume_path": "data/resumes/julia_novak.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Julia Novak",
+    "chunk_index": 0,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "M.A. in Economics, Charles University"
+    ],
+    "source_text": "Name: Julia Novak\nSummary:\nAnalytics consultant with data storytelling and operational insights experience.\nSkills:\nSQL, Python, Tableau, Power BI, Forecasting, Stakeholder Management\nExperience:\n5 years advising product and operations teams.\nEducation:\nM.A. in Economics, Charles University\n"
+  },
+  {
+    "candidate_name": "Julia Novak",
+    "resume_path": "data/resumes/julia_novak.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Analytics consultant with data storytelling and operational insights experience.",
+    "chunk_index": 1,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "M.A. in Economics, Charles University"
+    ],
+    "source_text": "Name: Julia Novak\nSummary:\nAnalytics consultant with data storytelling and operational insights experience.\nSkills:\nSQL, Python, Tableau, Power BI, Forecasting, Stakeholder Management\nExperience:\n5 years advising product and operations teams.\nEducation:\nM.A. in Economics, Charles University\n"
+  },
+  {
+    "candidate_name": "Julia Novak",
+    "resume_path": "data/resumes/julia_novak.txt",
+    "section": "skills",
+    "chunk_text": "Skills: SQL, Python, Tableau, Power BI, Forecasting, Stakeholder Management",
+    "chunk_index": 2,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "M.A. in Economics, Charles University"
+    ],
+    "source_text": "Name: Julia Novak\nSummary:\nAnalytics consultant with data storytelling and operational insights experience.\nSkills:\nSQL, Python, Tableau, Power BI, Forecasting, Stakeholder Management\nExperience:\n5 years advising product and operations teams.\nEducation:\nM.A. in Economics, Charles University\n"
+  },
+  {
+    "candidate_name": "Julia Novak",
+    "resume_path": "data/resumes/julia_novak.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 5 years advising product and operations teams.",
+    "chunk_index": 3,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "M.A. in Economics, Charles University"
+    ],
+    "source_text": "Name: Julia Novak\nSummary:\nAnalytics consultant with data storytelling and operational insights experience.\nSkills:\nSQL, Python, Tableau, Power BI, Forecasting, Stakeholder Management\nExperience:\n5 years advising product and operations teams.\nEducation:\nM.A. in Economics, Charles University\n"
+  },
+  {
+    "candidate_name": "Julia Novak",
+    "resume_path": "data/resumes/julia_novak.txt",
+    "section": "education",
+    "chunk_text": "Education: M.A. in Economics, Charles University",
+    "chunk_index": 4,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "M.A. in Economics, Charles University"
+    ],
+    "source_text": "Name: Julia Novak\nSummary:\nAnalytics consultant with data storytelling and operational insights experience.\nSkills:\nSQL, Python, Tableau, Power BI, Forecasting, Stakeholder Management\nExperience:\n5 years advising product and operations teams.\nEducation:\nM.A. in Economics, Charles University\n"
+  },
+  {
+    "candidate_name": "Liam O'Connor",
+    "resume_path": "data/resumes/liam_oconnor.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Liam O'Connor",
+    "chunk_index": 0,
+    "skills": [
+      "Java",
+      "Javascript",
+      "React"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.A. in Computer Science, Trinity College Dublin"
+    ],
+    "source_text": "Name: Liam O'Connor\nSummary:\nFrontend engineer focused on accessibility, performance, and modern React apps.\nSkills:\nJavaScript, React, TypeScript, Accessibility, CSS, Testing Library, GraphQL\nExperience:\n5 years building customer-facing web apps.\nEducation:\nB.A. in Computer Science, Trinity College Dublin\n"
+  },
+  {
+    "candidate_name": "Liam O'Connor",
+    "resume_path": "data/resumes/liam_oconnor.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Frontend engineer focused on accessibility, performance, and modern React apps.",
+    "chunk_index": 1,
+    "skills": [
+      "Java",
+      "Javascript",
+      "React"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.A. in Computer Science, Trinity College Dublin"
+    ],
+    "source_text": "Name: Liam O'Connor\nSummary:\nFrontend engineer focused on accessibility, performance, and modern React apps.\nSkills:\nJavaScript, React, TypeScript, Accessibility, CSS, Testing Library, GraphQL\nExperience:\n5 years building customer-facing web apps.\nEducation:\nB.A. in Computer Science, Trinity College Dublin\n"
+  },
+  {
+    "candidate_name": "Liam O'Connor",
+    "resume_path": "data/resumes/liam_oconnor.txt",
+    "section": "skills",
+    "chunk_text": "Skills: JavaScript, React, TypeScript, Accessibility, CSS, Testing Library, GraphQL",
+    "chunk_index": 2,
+    "skills": [
+      "Java",
+      "Javascript",
+      "React"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.A. in Computer Science, Trinity College Dublin"
+    ],
+    "source_text": "Name: Liam O'Connor\nSummary:\nFrontend engineer focused on accessibility, performance, and modern React apps.\nSkills:\nJavaScript, React, TypeScript, Accessibility, CSS, Testing Library, GraphQL\nExperience:\n5 years building customer-facing web apps.\nEducation:\nB.A. in Computer Science, Trinity College Dublin\n"
+  },
+  {
+    "candidate_name": "Liam O'Connor",
+    "resume_path": "data/resumes/liam_oconnor.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 5 years building customer-facing web apps.",
+    "chunk_index": 3,
+    "skills": [
+      "Java",
+      "Javascript",
+      "React"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.A. in Computer Science, Trinity College Dublin"
+    ],
+    "source_text": "Name: Liam O'Connor\nSummary:\nFrontend engineer focused on accessibility, performance, and modern React apps.\nSkills:\nJavaScript, React, TypeScript, Accessibility, CSS, Testing Library, GraphQL\nExperience:\n5 years building customer-facing web apps.\nEducation:\nB.A. in Computer Science, Trinity College Dublin\n"
+  },
+  {
+    "candidate_name": "Liam O'Connor",
+    "resume_path": "data/resumes/liam_oconnor.txt",
+    "section": "education",
+    "chunk_text": "Education: B.A. in Computer Science, Trinity College Dublin",
+    "chunk_index": 4,
+    "skills": [
+      "Java",
+      "Javascript",
+      "React"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.A. in Computer Science, Trinity College Dublin"
+    ],
+    "source_text": "Name: Liam O'Connor\nSummary:\nFrontend engineer focused on accessibility, performance, and modern React apps.\nSkills:\nJavaScript, React, TypeScript, Accessibility, CSS, Testing Library, GraphQL\nExperience:\n5 years building customer-facing web apps.\nEducation:\nB.A. in Computer Science, Trinity College Dublin\n"
+  },
+  {
+    "candidate_name": "Lucas Ferreira",
+    "resume_path": "data/resumes/lucas_ferreira.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Lucas Ferreira",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Python",
+      "Spark",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.S. in Computer Engineering, University of Sao Paulo"
+    ],
+    "source_text": "Name: Lucas Ferreira\nSummary:\nData platform engineer with lakehouse and orchestration expertise.\nSkills:\nSpark, Airflow, dbt, Python, SQL, Databricks, AWS\nExperience:\n5 years building data pipelines.\nEducation:\nB.S. in Computer Engineering, University of Sao Paulo\n"
+  },
+  {
+    "candidate_name": "Lucas Ferreira",
+    "resume_path": "data/resumes/lucas_ferreira.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Data platform engineer with lakehouse and orchestration expertise.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Python",
+      "Spark",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.S. in Computer Engineering, University of Sao Paulo"
+    ],
+    "source_text": "Name: Lucas Ferreira\nSummary:\nData platform engineer with lakehouse and orchestration expertise.\nSkills:\nSpark, Airflow, dbt, Python, SQL, Databricks, AWS\nExperience:\n5 years building data pipelines.\nEducation:\nB.S. in Computer Engineering, University of Sao Paulo\n"
+  },
+  {
+    "candidate_name": "Lucas Ferreira",
+    "resume_path": "data/resumes/lucas_ferreira.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Spark, Airflow, dbt, Python, SQL, Databricks, AWS",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Python",
+      "Spark",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.S. in Computer Engineering, University of Sao Paulo"
+    ],
+    "source_text": "Name: Lucas Ferreira\nSummary:\nData platform engineer with lakehouse and orchestration expertise.\nSkills:\nSpark, Airflow, dbt, Python, SQL, Databricks, AWS\nExperience:\n5 years building data pipelines.\nEducation:\nB.S. in Computer Engineering, University of Sao Paulo\n"
+  },
+  {
+    "candidate_name": "Lucas Ferreira",
+    "resume_path": "data/resumes/lucas_ferreira.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 5 years building data pipelines.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Python",
+      "Spark",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.S. in Computer Engineering, University of Sao Paulo"
+    ],
+    "source_text": "Name: Lucas Ferreira\nSummary:\nData platform engineer with lakehouse and orchestration expertise.\nSkills:\nSpark, Airflow, dbt, Python, SQL, Databricks, AWS\nExperience:\n5 years building data pipelines.\nEducation:\nB.S. in Computer Engineering, University of Sao Paulo\n"
+  },
+  {
+    "candidate_name": "Lucas Ferreira",
+    "resume_path": "data/resumes/lucas_ferreira.txt",
+    "section": "education",
+    "chunk_text": "Education: B.S. in Computer Engineering, University of Sao Paulo",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Python",
+      "Spark",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.S. in Computer Engineering, University of Sao Paulo"
+    ],
+    "source_text": "Name: Lucas Ferreira\nSummary:\nData platform engineer with lakehouse and orchestration expertise.\nSkills:\nSpark, Airflow, dbt, Python, SQL, Databricks, AWS\nExperience:\n5 years building data pipelines.\nEducation:\nB.S. in Computer Engineering, University of Sao Paulo\n"
+  },
+  {
+    "candidate_name": "Marcus Lee",
+    "resume_path": "data/resumes/marcus_lee.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Marcus Lee",
+    "chunk_index": 0,
+    "skills": [
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Llm",
+      "Machine Learning",
+      "Python",
+      "Pytorch",
+      "Sql",
+      "Tensorflow"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "M.S. in Computer Science, Georgia Tech"
+    ],
+    "source_text": "Name: Marcus Lee\nSummary:\nMachine learning engineer with production experience in LLM tooling and APIs.\nSkills:\nPython, TensorFlow, PyTorch, LLMs, Docker, Kubernetes, Azure, SQL\nExperience:\n7 years delivering ML systems for enterprise platforms.\nEducation:\nM.S. in Computer Science, Georgia Tech\n"
+  },
+  {
+    "candidate_name": "Marcus Lee",
+    "resume_path": "data/resumes/marcus_lee.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Machine learning engineer with production experience in LLM tooling and APIs.",
+    "chunk_index": 1,
+    "skills": [
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Llm",
+      "Machine Learning",
+      "Python",
+      "Pytorch",
+      "Sql",
+      "Tensorflow"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "M.S. in Computer Science, Georgia Tech"
+    ],
+    "source_text": "Name: Marcus Lee\nSummary:\nMachine learning engineer with production experience in LLM tooling and APIs.\nSkills:\nPython, TensorFlow, PyTorch, LLMs, Docker, Kubernetes, Azure, SQL\nExperience:\n7 years delivering ML systems for enterprise platforms.\nEducation:\nM.S. in Computer Science, Georgia Tech\n"
+  },
+  {
+    "candidate_name": "Marcus Lee",
+    "resume_path": "data/resumes/marcus_lee.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Python, TensorFlow, PyTorch, LLMs, Docker, Kubernetes, Azure, SQL",
+    "chunk_index": 2,
+    "skills": [
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Llm",
+      "Machine Learning",
+      "Python",
+      "Pytorch",
+      "Sql",
+      "Tensorflow"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "M.S. in Computer Science, Georgia Tech"
+    ],
+    "source_text": "Name: Marcus Lee\nSummary:\nMachine learning engineer with production experience in LLM tooling and APIs.\nSkills:\nPython, TensorFlow, PyTorch, LLMs, Docker, Kubernetes, Azure, SQL\nExperience:\n7 years delivering ML systems for enterprise platforms.\nEducation:\nM.S. in Computer Science, Georgia Tech\n"
+  },
+  {
+    "candidate_name": "Marcus Lee",
+    "resume_path": "data/resumes/marcus_lee.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 7 years delivering ML systems for enterprise platforms.",
+    "chunk_index": 3,
+    "skills": [
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Llm",
+      "Machine Learning",
+      "Python",
+      "Pytorch",
+      "Sql",
+      "Tensorflow"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "M.S. in Computer Science, Georgia Tech"
+    ],
+    "source_text": "Name: Marcus Lee\nSummary:\nMachine learning engineer with production experience in LLM tooling and APIs.\nSkills:\nPython, TensorFlow, PyTorch, LLMs, Docker, Kubernetes, Azure, SQL\nExperience:\n7 years delivering ML systems for enterprise platforms.\nEducation:\nM.S. in Computer Science, Georgia Tech\n"
+  },
+  {
+    "candidate_name": "Marcus Lee",
+    "resume_path": "data/resumes/marcus_lee.txt",
+    "section": "education",
+    "chunk_text": "Education: M.S. in Computer Science, Georgia Tech",
+    "chunk_index": 4,
+    "skills": [
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Llm",
+      "Machine Learning",
+      "Python",
+      "Pytorch",
+      "Sql",
+      "Tensorflow"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "M.S. in Computer Science, Georgia Tech"
+    ],
+    "source_text": "Name: Marcus Lee\nSummary:\nMachine learning engineer with production experience in LLM tooling and APIs.\nSkills:\nPython, TensorFlow, PyTorch, LLMs, Docker, Kubernetes, Azure, SQL\nExperience:\n7 years delivering ML systems for enterprise platforms.\nEducation:\nM.S. in Computer Science, Georgia Tech\n"
+  },
+  {
+    "candidate_name": "Mei Lin",
+    "resume_path": "data/resumes/mei_lin.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Mei Lin",
+    "chunk_index": 0,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "M.S. in Artificial Intelligence, National University of Singapore"
+    ],
+    "source_text": "Name: Mei Lin\nSummary:\nNLP engineer working on search, embeddings, and model evaluation.\nSkills:\nPython, NLP, Embeddings, Retrieval, PyTorch, Hugging Face, SQL\nExperience:\n5 years in applied language technologies.\nEducation:\nM.S. in Artificial Intelligence, National University of Singapore\n"
+  },
+  {
+    "candidate_name": "Mei Lin",
+    "resume_path": "data/resumes/mei_lin.txt",
+    "section": "summary",
+    "chunk_text": "Summary: NLP engineer working on search, embeddings, and model evaluation.",
+    "chunk_index": 1,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "M.S. in Artificial Intelligence, National University of Singapore"
+    ],
+    "source_text": "Name: Mei Lin\nSummary:\nNLP engineer working on search, embeddings, and model evaluation.\nSkills:\nPython, NLP, Embeddings, Retrieval, PyTorch, Hugging Face, SQL\nExperience:\n5 years in applied language technologies.\nEducation:\nM.S. in Artificial Intelligence, National University of Singapore\n"
+  },
+  {
+    "candidate_name": "Mei Lin",
+    "resume_path": "data/resumes/mei_lin.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Python, NLP, Embeddings, Retrieval, PyTorch, Hugging Face, SQL",
+    "chunk_index": 2,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "M.S. in Artificial Intelligence, National University of Singapore"
+    ],
+    "source_text": "Name: Mei Lin\nSummary:\nNLP engineer working on search, embeddings, and model evaluation.\nSkills:\nPython, NLP, Embeddings, Retrieval, PyTorch, Hugging Face, SQL\nExperience:\n5 years in applied language technologies.\nEducation:\nM.S. in Artificial Intelligence, National University of Singapore\n"
+  },
+  {
+    "candidate_name": "Mei Lin",
+    "resume_path": "data/resumes/mei_lin.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 5 years in applied language technologies.",
+    "chunk_index": 3,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "M.S. in Artificial Intelligence, National University of Singapore"
+    ],
+    "source_text": "Name: Mei Lin\nSummary:\nNLP engineer working on search, embeddings, and model evaluation.\nSkills:\nPython, NLP, Embeddings, Retrieval, PyTorch, Hugging Face, SQL\nExperience:\n5 years in applied language technologies.\nEducation:\nM.S. in Artificial Intelligence, National University of Singapore\n"
+  },
+  {
+    "candidate_name": "Mei Lin",
+    "resume_path": "data/resumes/mei_lin.txt",
+    "section": "education",
+    "chunk_text": "Education: M.S. in Artificial Intelligence, National University of Singapore",
+    "chunk_index": 4,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "M.S. in Artificial Intelligence, National University of Singapore"
+    ],
+    "source_text": "Name: Mei Lin\nSummary:\nNLP engineer working on search, embeddings, and model evaluation.\nSkills:\nPython, NLP, Embeddings, Retrieval, PyTorch, Hugging Face, SQL\nExperience:\n5 years in applied language technologies.\nEducation:\nM.S. in Artificial Intelligence, National University of Singapore\n"
+  },
+  {
+    "candidate_name": "Michael Brown",
+    "resume_path": "data/resumes/michael_brown.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Michael Brown",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "B.S. in Computer Science, Arizona State University"
+    ],
+    "source_text": "Name: Michael Brown\nSummary:\nCloud engineer focused on infrastructure automation and reliability.\nSkills:\nAWS, Terraform, Kubernetes, Linux, Python, Monitoring, CI/CD\nExperience:\n8 years supporting cloud-native deployments.\nEducation:\nB.S. in Computer Science, Arizona State University\n"
+  },
+  {
+    "candidate_name": "Michael Brown",
+    "resume_path": "data/resumes/michael_brown.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Cloud engineer focused on infrastructure automation and reliability.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "B.S. in Computer Science, Arizona State University"
+    ],
+    "source_text": "Name: Michael Brown\nSummary:\nCloud engineer focused on infrastructure automation and reliability.\nSkills:\nAWS, Terraform, Kubernetes, Linux, Python, Monitoring, CI/CD\nExperience:\n8 years supporting cloud-native deployments.\nEducation:\nB.S. in Computer Science, Arizona State University\n"
+  },
+  {
+    "candidate_name": "Michael Brown",
+    "resume_path": "data/resumes/michael_brown.txt",
+    "section": "skills",
+    "chunk_text": "Skills: AWS, Terraform, Kubernetes, Linux, Python, Monitoring, CI/CD",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "B.S. in Computer Science, Arizona State University"
+    ],
+    "source_text": "Name: Michael Brown\nSummary:\nCloud engineer focused on infrastructure automation and reliability.\nSkills:\nAWS, Terraform, Kubernetes, Linux, Python, Monitoring, CI/CD\nExperience:\n8 years supporting cloud-native deployments.\nEducation:\nB.S. in Computer Science, Arizona State University\n"
+  },
+  {
+    "candidate_name": "Michael Brown",
+    "resume_path": "data/resumes/michael_brown.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 8 years supporting cloud-native deployments.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "B.S. in Computer Science, Arizona State University"
+    ],
+    "source_text": "Name: Michael Brown\nSummary:\nCloud engineer focused on infrastructure automation and reliability.\nSkills:\nAWS, Terraform, Kubernetes, Linux, Python, Monitoring, CI/CD\nExperience:\n8 years supporting cloud-native deployments.\nEducation:\nB.S. in Computer Science, Arizona State University\n"
+  },
+  {
+    "candidate_name": "Michael Brown",
+    "resume_path": "data/resumes/michael_brown.txt",
+    "section": "education",
+    "chunk_text": "Education: B.S. in Computer Science, Arizona State University",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "B.S. in Computer Science, Arizona State University"
+    ],
+    "source_text": "Name: Michael Brown\nSummary:\nCloud engineer focused on infrastructure automation and reliability.\nSkills:\nAWS, Terraform, Kubernetes, Linux, Python, Monitoring, CI/CD\nExperience:\n8 years supporting cloud-native deployments.\nEducation:\nB.S. in Computer Science, Arizona State University\n"
+  },
+  {
+    "candidate_name": "Nina Patel",
+    "resume_path": "data/resumes/nina_patel.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Nina Patel",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Python",
+      "Spark",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.Tech in Information Technology, NIT Surat"
+    ],
+    "source_text": "Name: Nina Patel\nSummary:\nData engineer specializing in pipelines, warehouses, and batch/stream processing.\nSkills:\nPython, SQL, Spark, Airflow, dbt, AWS, Snowflake, Kafka\nExperience:\n5 years designing scalable data platforms.\nEducation:\nB.Tech in Information Technology, NIT Surat\n"
+  },
+  {
+    "candidate_name": "Nina Patel",
+    "resume_path": "data/resumes/nina_patel.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Data engineer specializing in pipelines, warehouses, and batch/stream processing.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Python",
+      "Spark",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.Tech in Information Technology, NIT Surat"
+    ],
+    "source_text": "Name: Nina Patel\nSummary:\nData engineer specializing in pipelines, warehouses, and batch/stream processing.\nSkills:\nPython, SQL, Spark, Airflow, dbt, AWS, Snowflake, Kafka\nExperience:\n5 years designing scalable data platforms.\nEducation:\nB.Tech in Information Technology, NIT Surat\n"
+  },
+  {
+    "candidate_name": "Nina Patel",
+    "resume_path": "data/resumes/nina_patel.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Python, SQL, Spark, Airflow, dbt, AWS, Snowflake, Kafka",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Python",
+      "Spark",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.Tech in Information Technology, NIT Surat"
+    ],
+    "source_text": "Name: Nina Patel\nSummary:\nData engineer specializing in pipelines, warehouses, and batch/stream processing.\nSkills:\nPython, SQL, Spark, Airflow, dbt, AWS, Snowflake, Kafka\nExperience:\n5 years designing scalable data platforms.\nEducation:\nB.Tech in Information Technology, NIT Surat\n"
+  },
+  {
+    "candidate_name": "Nina Patel",
+    "resume_path": "data/resumes/nina_patel.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 5 years designing scalable data platforms.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Python",
+      "Spark",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.Tech in Information Technology, NIT Surat"
+    ],
+    "source_text": "Name: Nina Patel\nSummary:\nData engineer specializing in pipelines, warehouses, and batch/stream processing.\nSkills:\nPython, SQL, Spark, Airflow, dbt, AWS, Snowflake, Kafka\nExperience:\n5 years designing scalable data platforms.\nEducation:\nB.Tech in Information Technology, NIT Surat\n"
+  },
+  {
+    "candidate_name": "Nina Patel",
+    "resume_path": "data/resumes/nina_patel.txt",
+    "section": "education",
+    "chunk_text": "Education: B.Tech in Information Technology, NIT Surat",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Python",
+      "Spark",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.Tech in Information Technology, NIT Surat"
+    ],
+    "source_text": "Name: Nina Patel\nSummary:\nData engineer specializing in pipelines, warehouses, and batch/stream processing.\nSkills:\nPython, SQL, Spark, Airflow, dbt, AWS, Snowflake, Kafka\nExperience:\n5 years designing scalable data platforms.\nEducation:\nB.Tech in Information Technology, NIT Surat\n"
+  },
+  {
+    "candidate_name": "Noah Wilson",
+    "resume_path": "data/resumes/noah_wilson.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Noah Wilson",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Science, University of Illinois"
+    ],
+    "source_text": "Name: Noah Wilson\nSummary:\nSite reliability engineer who automates deployments and incident response.\nSkills:\nKubernetes, Docker, AWS, Terraform, Python, Linux, Observability\nExperience:\n7 years improving uptime for SaaS services.\nEducation:\nB.S. in Computer Science, University of Illinois\n"
+  },
+  {
+    "candidate_name": "Noah Wilson",
+    "resume_path": "data/resumes/noah_wilson.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Site reliability engineer who automates deployments and incident response.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Science, University of Illinois"
+    ],
+    "source_text": "Name: Noah Wilson\nSummary:\nSite reliability engineer who automates deployments and incident response.\nSkills:\nKubernetes, Docker, AWS, Terraform, Python, Linux, Observability\nExperience:\n7 years improving uptime for SaaS services.\nEducation:\nB.S. in Computer Science, University of Illinois\n"
+  },
+  {
+    "candidate_name": "Noah Wilson",
+    "resume_path": "data/resumes/noah_wilson.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Kubernetes, Docker, AWS, Terraform, Python, Linux, Observability",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Science, University of Illinois"
+    ],
+    "source_text": "Name: Noah Wilson\nSummary:\nSite reliability engineer who automates deployments and incident response.\nSkills:\nKubernetes, Docker, AWS, Terraform, Python, Linux, Observability\nExperience:\n7 years improving uptime for SaaS services.\nEducation:\nB.S. in Computer Science, University of Illinois\n"
+  },
+  {
+    "candidate_name": "Noah Wilson",
+    "resume_path": "data/resumes/noah_wilson.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 7 years improving uptime for SaaS services.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Science, University of Illinois"
+    ],
+    "source_text": "Name: Noah Wilson\nSummary:\nSite reliability engineer who automates deployments and incident response.\nSkills:\nKubernetes, Docker, AWS, Terraform, Python, Linux, Observability\nExperience:\n7 years improving uptime for SaaS services.\nEducation:\nB.S. in Computer Science, University of Illinois\n"
+  },
+  {
+    "candidate_name": "Noah Wilson",
+    "resume_path": "data/resumes/noah_wilson.txt",
+    "section": "education",
+    "chunk_text": "Education: B.S. in Computer Science, University of Illinois",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 7.0,
+    "education": [
+      "B.S. in Computer Science, University of Illinois"
+    ],
+    "source_text": "Name: Noah Wilson\nSummary:\nSite reliability engineer who automates deployments and incident response.\nSkills:\nKubernetes, Docker, AWS, Terraform, Python, Linux, Observability\nExperience:\n7 years improving uptime for SaaS services.\nEducation:\nB.S. in Computer Science, University of Illinois\n"
+  },
+  {
+    "candidate_name": "Olivia Chen",
+    "resume_path": "data/resumes/olivia_chen.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Olivia Chen",
+    "chunk_index": 0,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.S. in Economics, University of Washington"
+    ],
+    "source_text": "Name: Olivia Chen\nSummary:\nProduct analyst who blends SQL, experimentation, and dashboard storytelling.\nSkills:\nSQL, Tableau, Power BI, Python, A/B Testing, Experimentation, Product Analytics\nExperience:\n4 years supporting growth and monetization teams.\nEducation:\nB.S. in Economics, University of Washington\n"
+  },
+  {
+    "candidate_name": "Olivia Chen",
+    "resume_path": "data/resumes/olivia_chen.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Product analyst who blends SQL, experimentation, and dashboard storytelling.",
+    "chunk_index": 1,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.S. in Economics, University of Washington"
+    ],
+    "source_text": "Name: Olivia Chen\nSummary:\nProduct analyst who blends SQL, experimentation, and dashboard storytelling.\nSkills:\nSQL, Tableau, Power BI, Python, A/B Testing, Experimentation, Product Analytics\nExperience:\n4 years supporting growth and monetization teams.\nEducation:\nB.S. in Economics, University of Washington\n"
+  },
+  {
+    "candidate_name": "Olivia Chen",
+    "resume_path": "data/resumes/olivia_chen.txt",
+    "section": "skills",
+    "chunk_text": "Skills: SQL, Tableau, Power BI, Python, A/B Testing, Experimentation, Product Analytics",
+    "chunk_index": 2,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.S. in Economics, University of Washington"
+    ],
+    "source_text": "Name: Olivia Chen\nSummary:\nProduct analyst who blends SQL, experimentation, and dashboard storytelling.\nSkills:\nSQL, Tableau, Power BI, Python, A/B Testing, Experimentation, Product Analytics\nExperience:\n4 years supporting growth and monetization teams.\nEducation:\nB.S. in Economics, University of Washington\n"
+  },
+  {
+    "candidate_name": "Olivia Chen",
+    "resume_path": "data/resumes/olivia_chen.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 4 years supporting growth and monetization teams.",
+    "chunk_index": 3,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.S. in Economics, University of Washington"
+    ],
+    "source_text": "Name: Olivia Chen\nSummary:\nProduct analyst who blends SQL, experimentation, and dashboard storytelling.\nSkills:\nSQL, Tableau, Power BI, Python, A/B Testing, Experimentation, Product Analytics\nExperience:\n4 years supporting growth and monetization teams.\nEducation:\nB.S. in Economics, University of Washington\n"
+  },
+  {
+    "candidate_name": "Olivia Chen",
+    "resume_path": "data/resumes/olivia_chen.txt",
+    "section": "education",
+    "chunk_text": "Education: B.S. in Economics, University of Washington",
+    "chunk_index": 4,
+    "skills": [
+      "Power Bi",
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 4.0,
+    "education": [
+      "B.S. in Economics, University of Washington"
+    ],
+    "source_text": "Name: Olivia Chen\nSummary:\nProduct analyst who blends SQL, experimentation, and dashboard storytelling.\nSkills:\nSQL, Tableau, Power BI, Python, A/B Testing, Experimentation, Product Analytics\nExperience:\n4 years supporting growth and monetization teams.\nEducation:\nB.S. in Economics, University of Washington\n"
+  },
+  {
+    "candidate_name": "Omar Haddad",
+    "resume_path": "data/resumes/omar_haddad.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Omar Haddad",
+    "chunk_index": 0,
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Pytorch"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "Ph.D. in Computer Science, KAUST"
+    ],
+    "source_text": "Name: Omar Haddad\nSummary:\nML researcher with ranking, recommendation, and vector search experience.\nSkills:\nPython, Machine Learning, Ranking, Vector Search, PyTorch, Elasticsearch\nExperience:\n8 years in applied machine learning roles.\nEducation:\nPh.D. in Computer Science, KAUST\n"
+  },
+  {
+    "candidate_name": "Omar Haddad",
+    "resume_path": "data/resumes/omar_haddad.txt",
+    "section": "summary",
+    "chunk_text": "Summary: ML researcher with ranking, recommendation, and vector search experience.",
+    "chunk_index": 1,
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Pytorch"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "Ph.D. in Computer Science, KAUST"
+    ],
+    "source_text": "Name: Omar Haddad\nSummary:\nML researcher with ranking, recommendation, and vector search experience.\nSkills:\nPython, Machine Learning, Ranking, Vector Search, PyTorch, Elasticsearch\nExperience:\n8 years in applied machine learning roles.\nEducation:\nPh.D. in Computer Science, KAUST\n"
+  },
+  {
+    "candidate_name": "Omar Haddad",
+    "resume_path": "data/resumes/omar_haddad.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Python, Machine Learning, Ranking, Vector Search, PyTorch, Elasticsearch",
+    "chunk_index": 2,
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Pytorch"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "Ph.D. in Computer Science, KAUST"
+    ],
+    "source_text": "Name: Omar Haddad\nSummary:\nML researcher with ranking, recommendation, and vector search experience.\nSkills:\nPython, Machine Learning, Ranking, Vector Search, PyTorch, Elasticsearch\nExperience:\n8 years in applied machine learning roles.\nEducation:\nPh.D. in Computer Science, KAUST\n"
+  },
+  {
+    "candidate_name": "Omar Haddad",
+    "resume_path": "data/resumes/omar_haddad.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 8 years in applied machine learning roles.",
+    "chunk_index": 3,
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Pytorch"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "Ph.D. in Computer Science, KAUST"
+    ],
+    "source_text": "Name: Omar Haddad\nSummary:\nML researcher with ranking, recommendation, and vector search experience.\nSkills:\nPython, Machine Learning, Ranking, Vector Search, PyTorch, Elasticsearch\nExperience:\n8 years in applied machine learning roles.\nEducation:\nPh.D. in Computer Science, KAUST\n"
+  },
+  {
+    "candidate_name": "Omar Haddad",
+    "resume_path": "data/resumes/omar_haddad.txt",
+    "section": "education",
+    "chunk_text": "Education: Ph.D. in Computer Science, KAUST",
+    "chunk_index": 4,
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Pytorch"
+    ],
+    "experience_years": 8.0,
+    "education": [
+      "Ph.D. in Computer Science, KAUST"
+    ],
+    "source_text": "Name: Omar Haddad\nSummary:\nML researcher with ranking, recommendation, and vector search experience.\nSkills:\nPython, Machine Learning, Ranking, Vector Search, PyTorch, Elasticsearch\nExperience:\n8 years in applied machine learning roles.\nEducation:\nPh.D. in Computer Science, KAUST\n"
+  },
+  {
+    "candidate_name": "Priya Shah",
+    "resume_path": "data/resumes/priya_shah.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Priya Shah",
+    "chunk_index": 0,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Business Analytics, Boston University"
+    ],
+    "source_text": "Name: Priya Shah\nSummary:\nAnalytics engineer focused on metric layers, dashboards, and business intelligence.\nSkills:\nSQL, dbt, Looker, Tableau, Python, Data Modeling, Snowflake\nExperience:\n6 years improving reporting for product and finance teams.\nEducation:\nM.S. in Business Analytics, Boston University\n"
+  },
+  {
+    "candidate_name": "Priya Shah",
+    "resume_path": "data/resumes/priya_shah.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Analytics engineer focused on metric layers, dashboards, and business intelligence.",
+    "chunk_index": 1,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Business Analytics, Boston University"
+    ],
+    "source_text": "Name: Priya Shah\nSummary:\nAnalytics engineer focused on metric layers, dashboards, and business intelligence.\nSkills:\nSQL, dbt, Looker, Tableau, Python, Data Modeling, Snowflake\nExperience:\n6 years improving reporting for product and finance teams.\nEducation:\nM.S. in Business Analytics, Boston University\n"
+  },
+  {
+    "candidate_name": "Priya Shah",
+    "resume_path": "data/resumes/priya_shah.txt",
+    "section": "skills",
+    "chunk_text": "Skills: SQL, dbt, Looker, Tableau, Python, Data Modeling, Snowflake",
+    "chunk_index": 2,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Business Analytics, Boston University"
+    ],
+    "source_text": "Name: Priya Shah\nSummary:\nAnalytics engineer focused on metric layers, dashboards, and business intelligence.\nSkills:\nSQL, dbt, Looker, Tableau, Python, Data Modeling, Snowflake\nExperience:\n6 years improving reporting for product and finance teams.\nEducation:\nM.S. in Business Analytics, Boston University\n"
+  },
+  {
+    "candidate_name": "Priya Shah",
+    "resume_path": "data/resumes/priya_shah.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 6 years improving reporting for product and finance teams.",
+    "chunk_index": 3,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Business Analytics, Boston University"
+    ],
+    "source_text": "Name: Priya Shah\nSummary:\nAnalytics engineer focused on metric layers, dashboards, and business intelligence.\nSkills:\nSQL, dbt, Looker, Tableau, Python, Data Modeling, Snowflake\nExperience:\n6 years improving reporting for product and finance teams.\nEducation:\nM.S. in Business Analytics, Boston University\n"
+  },
+  {
+    "candidate_name": "Priya Shah",
+    "resume_path": "data/resumes/priya_shah.txt",
+    "section": "education",
+    "chunk_text": "Education: M.S. in Business Analytics, Boston University",
+    "chunk_index": 4,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Business Analytics, Boston University"
+    ],
+    "source_text": "Name: Priya Shah\nSummary:\nAnalytics engineer focused on metric layers, dashboards, and business intelligence.\nSkills:\nSQL, dbt, Looker, Tableau, Python, Data Modeling, Snowflake\nExperience:\n6 years improving reporting for product and finance teams.\nEducation:\nM.S. in Business Analytics, Boston University\n"
+  },
+  {
+    "candidate_name": "Priyanka Nair",
+    "resume_path": "data/resumes/priyanka_nair.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Priyanka Nair",
+    "chunk_index": 0,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Data Science, University of Maryland"
+    ],
+    "source_text": "Name: Priyanka Nair\nSummary:\nProduct data scientist bridging experimentation, metrics, and forecasting.\nSkills:\nPython, SQL, Experimentation, Forecasting, Statistics, Tableau, R\nExperience:\n6 years supporting product and growth decisions.\nEducation:\nM.S. in Data Science, University of Maryland\n"
+  },
+  {
+    "candidate_name": "Priyanka Nair",
+    "resume_path": "data/resumes/priyanka_nair.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Product data scientist bridging experimentation, metrics, and forecasting.",
+    "chunk_index": 1,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Data Science, University of Maryland"
+    ],
+    "source_text": "Name: Priyanka Nair\nSummary:\nProduct data scientist bridging experimentation, metrics, and forecasting.\nSkills:\nPython, SQL, Experimentation, Forecasting, Statistics, Tableau, R\nExperience:\n6 years supporting product and growth decisions.\nEducation:\nM.S. in Data Science, University of Maryland\n"
+  },
+  {
+    "candidate_name": "Priyanka Nair",
+    "resume_path": "data/resumes/priyanka_nair.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Python, SQL, Experimentation, Forecasting, Statistics, Tableau, R",
+    "chunk_index": 2,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Data Science, University of Maryland"
+    ],
+    "source_text": "Name: Priyanka Nair\nSummary:\nProduct data scientist bridging experimentation, metrics, and forecasting.\nSkills:\nPython, SQL, Experimentation, Forecasting, Statistics, Tableau, R\nExperience:\n6 years supporting product and growth decisions.\nEducation:\nM.S. in Data Science, University of Maryland\n"
+  },
+  {
+    "candidate_name": "Priyanka Nair",
+    "resume_path": "data/resumes/priyanka_nair.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 6 years supporting product and growth decisions.",
+    "chunk_index": 3,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Data Science, University of Maryland"
+    ],
+    "source_text": "Name: Priyanka Nair\nSummary:\nProduct data scientist bridging experimentation, metrics, and forecasting.\nSkills:\nPython, SQL, Experimentation, Forecasting, Statistics, Tableau, R\nExperience:\n6 years supporting product and growth decisions.\nEducation:\nM.S. in Data Science, University of Maryland\n"
+  },
+  {
+    "candidate_name": "Priyanka Nair",
+    "resume_path": "data/resumes/priyanka_nair.txt",
+    "section": "education",
+    "chunk_text": "Education: M.S. in Data Science, University of Maryland",
+    "chunk_index": 4,
+    "skills": [
+      "Python",
+      "Sql",
+      "Tableau"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "M.S. in Data Science, University of Maryland"
+    ],
+    "source_text": "Name: Priyanka Nair\nSummary:\nProduct data scientist bridging experimentation, metrics, and forecasting.\nSkills:\nPython, SQL, Experimentation, Forecasting, Statistics, Tableau, R\nExperience:\n6 years supporting product and growth decisions.\nEducation:\nM.S. in Data Science, University of Maryland\n"
+  },
+  {
+    "candidate_name": "Raj Mehta",
+    "resume_path": "data/resumes/raj_mehta.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Raj Mehta",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Java",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 10.0,
+    "education": [
+      "B.Tech in Computer Engineering, IIT Bombay"
+    ],
+    "source_text": "Name: Raj Mehta\nSummary:\nSenior software engineer with backend, data, and platform experience.\nSkills:\nJava, Python, PostgreSQL, Redis, Microservices, AWS, Kafka\nExperience:\n10 years building enterprise systems.\nEducation:\nB.Tech in Computer Engineering, IIT Bombay\n"
+  },
+  {
+    "candidate_name": "Raj Mehta",
+    "resume_path": "data/resumes/raj_mehta.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Senior software engineer with backend, data, and platform experience.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Java",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 10.0,
+    "education": [
+      "B.Tech in Computer Engineering, IIT Bombay"
+    ],
+    "source_text": "Name: Raj Mehta\nSummary:\nSenior software engineer with backend, data, and platform experience.\nSkills:\nJava, Python, PostgreSQL, Redis, Microservices, AWS, Kafka\nExperience:\n10 years building enterprise systems.\nEducation:\nB.Tech in Computer Engineering, IIT Bombay\n"
+  },
+  {
+    "candidate_name": "Raj Mehta",
+    "resume_path": "data/resumes/raj_mehta.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Java, Python, PostgreSQL, Redis, Microservices, AWS, Kafka",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Java",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 10.0,
+    "education": [
+      "B.Tech in Computer Engineering, IIT Bombay"
+    ],
+    "source_text": "Name: Raj Mehta\nSummary:\nSenior software engineer with backend, data, and platform experience.\nSkills:\nJava, Python, PostgreSQL, Redis, Microservices, AWS, Kafka\nExperience:\n10 years building enterprise systems.\nEducation:\nB.Tech in Computer Engineering, IIT Bombay\n"
+  },
+  {
+    "candidate_name": "Raj Mehta",
+    "resume_path": "data/resumes/raj_mehta.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 10 years building enterprise systems.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Java",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 10.0,
+    "education": [
+      "B.Tech in Computer Engineering, IIT Bombay"
+    ],
+    "source_text": "Name: Raj Mehta\nSummary:\nSenior software engineer with backend, data, and platform experience.\nSkills:\nJava, Python, PostgreSQL, Redis, Microservices, AWS, Kafka\nExperience:\n10 years building enterprise systems.\nEducation:\nB.Tech in Computer Engineering, IIT Bombay\n"
+  },
+  {
+    "candidate_name": "Raj Mehta",
+    "resume_path": "data/resumes/raj_mehta.txt",
+    "section": "education",
+    "chunk_text": "Education: B.Tech in Computer Engineering, IIT Bombay",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Java",
+      "Python",
+      "Sql"
+    ],
+    "experience_years": 10.0,
+    "education": [
+      "B.Tech in Computer Engineering, IIT Bombay"
+    ],
+    "source_text": "Name: Raj Mehta\nSummary:\nSenior software engineer with backend, data, and platform experience.\nSkills:\nJava, Python, PostgreSQL, Redis, Microservices, AWS, Kafka\nExperience:\n10 years building enterprise systems.\nEducation:\nB.Tech in Computer Engineering, IIT Bombay\n"
+  },
+  {
+    "candidate_name": "Sara Ahmed",
+    "resume_path": "data/resumes/sara_ahmed.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Sara Ahmed",
+    "chunk_index": 0,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Rag",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "Ph.D. in Computational Linguistics, University of Toronto"
+    ],
+    "source_text": "Name: Sara Ahmed\nSummary:\nResearch scientist specializing in multilingual NLP and retrieval.\nSkills:\nPython, NLP, Transformers, RAG, PyTorch, Hugging Face, SQL\nExperience:\n5 years in applied AI labs.\nEducation:\nPh.D. in Computational Linguistics, University of Toronto\n"
+  },
+  {
+    "candidate_name": "Sara Ahmed",
+    "resume_path": "data/resumes/sara_ahmed.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Research scientist specializing in multilingual NLP and retrieval.",
+    "chunk_index": 1,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Rag",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "Ph.D. in Computational Linguistics, University of Toronto"
+    ],
+    "source_text": "Name: Sara Ahmed\nSummary:\nResearch scientist specializing in multilingual NLP and retrieval.\nSkills:\nPython, NLP, Transformers, RAG, PyTorch, Hugging Face, SQL\nExperience:\n5 years in applied AI labs.\nEducation:\nPh.D. in Computational Linguistics, University of Toronto\n"
+  },
+  {
+    "candidate_name": "Sara Ahmed",
+    "resume_path": "data/resumes/sara_ahmed.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Python, NLP, Transformers, RAG, PyTorch, Hugging Face, SQL",
+    "chunk_index": 2,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Rag",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "Ph.D. in Computational Linguistics, University of Toronto"
+    ],
+    "source_text": "Name: Sara Ahmed\nSummary:\nResearch scientist specializing in multilingual NLP and retrieval.\nSkills:\nPython, NLP, Transformers, RAG, PyTorch, Hugging Face, SQL\nExperience:\n5 years in applied AI labs.\nEducation:\nPh.D. in Computational Linguistics, University of Toronto\n"
+  },
+  {
+    "candidate_name": "Sara Ahmed",
+    "resume_path": "data/resumes/sara_ahmed.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 5 years in applied AI labs.",
+    "chunk_index": 3,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Rag",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "Ph.D. in Computational Linguistics, University of Toronto"
+    ],
+    "source_text": "Name: Sara Ahmed\nSummary:\nResearch scientist specializing in multilingual NLP and retrieval.\nSkills:\nPython, NLP, Transformers, RAG, PyTorch, Hugging Face, SQL\nExperience:\n5 years in applied AI labs.\nEducation:\nPh.D. in Computational Linguistics, University of Toronto\n"
+  },
+  {
+    "candidate_name": "Sara Ahmed",
+    "resume_path": "data/resumes/sara_ahmed.txt",
+    "section": "education",
+    "chunk_text": "Education: Ph.D. in Computational Linguistics, University of Toronto",
+    "chunk_index": 4,
+    "skills": [
+      "Nlp",
+      "Python",
+      "Pytorch",
+      "Rag",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "Ph.D. in Computational Linguistics, University of Toronto"
+    ],
+    "source_text": "Name: Sara Ahmed\nSummary:\nResearch scientist specializing in multilingual NLP and retrieval.\nSkills:\nPython, NLP, Transformers, RAG, PyTorch, Hugging Face, SQL\nExperience:\n5 years in applied AI labs.\nEducation:\nPh.D. in Computational Linguistics, University of Toronto\n"
+  },
+  {
+    "candidate_name": "Sophie Martin",
+    "resume_path": "data/resumes/sophie_martin.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Sophie Martin",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Fastapi",
+      "Java",
+      "Javascript",
+      "React",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.S. in Software Engineering, École Polytechnique"
+    ],
+    "source_text": "Name: Sophie Martin\nSummary:\nFull stack engineer building React and backend services for customer products.\nSkills:\nJavaScript, React, Node.js, FastAPI, PostgreSQL, Docker, AWS, TypeScript\nExperience:\n5 years across product engineering and platform teams.\nEducation:\nB.S. in Software Engineering, École Polytechnique\n"
+  },
+  {
+    "candidate_name": "Sophie Martin",
+    "resume_path": "data/resumes/sophie_martin.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Full stack engineer building React and backend services for customer products.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Fastapi",
+      "Java",
+      "Javascript",
+      "React",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.S. in Software Engineering, École Polytechnique"
+    ],
+    "source_text": "Name: Sophie Martin\nSummary:\nFull stack engineer building React and backend services for customer products.\nSkills:\nJavaScript, React, Node.js, FastAPI, PostgreSQL, Docker, AWS, TypeScript\nExperience:\n5 years across product engineering and platform teams.\nEducation:\nB.S. in Software Engineering, École Polytechnique\n"
+  },
+  {
+    "candidate_name": "Sophie Martin",
+    "resume_path": "data/resumes/sophie_martin.txt",
+    "section": "skills",
+    "chunk_text": "Skills: JavaScript, React, Node.js, FastAPI, PostgreSQL, Docker, AWS, TypeScript",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Fastapi",
+      "Java",
+      "Javascript",
+      "React",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.S. in Software Engineering, École Polytechnique"
+    ],
+    "source_text": "Name: Sophie Martin\nSummary:\nFull stack engineer building React and backend services for customer products.\nSkills:\nJavaScript, React, Node.js, FastAPI, PostgreSQL, Docker, AWS, TypeScript\nExperience:\n5 years across product engineering and platform teams.\nEducation:\nB.S. in Software Engineering, École Polytechnique\n"
+  },
+  {
+    "candidate_name": "Sophie Martin",
+    "resume_path": "data/resumes/sophie_martin.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 5 years across product engineering and platform teams.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Fastapi",
+      "Java",
+      "Javascript",
+      "React",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.S. in Software Engineering, École Polytechnique"
+    ],
+    "source_text": "Name: Sophie Martin\nSummary:\nFull stack engineer building React and backend services for customer products.\nSkills:\nJavaScript, React, Node.js, FastAPI, PostgreSQL, Docker, AWS, TypeScript\nExperience:\n5 years across product engineering and platform teams.\nEducation:\nB.S. in Software Engineering, École Polytechnique\n"
+  },
+  {
+    "candidate_name": "Sophie Martin",
+    "resume_path": "data/resumes/sophie_martin.txt",
+    "section": "education",
+    "chunk_text": "Education: B.S. in Software Engineering, École Polytechnique",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Fastapi",
+      "Java",
+      "Javascript",
+      "React",
+      "Sql"
+    ],
+    "experience_years": 5.0,
+    "education": [
+      "B.S. in Software Engineering, École Polytechnique"
+    ],
+    "source_text": "Name: Sophie Martin\nSummary:\nFull stack engineer building React and backend services for customer products.\nSkills:\nJavaScript, React, Node.js, FastAPI, PostgreSQL, Docker, AWS, TypeScript\nExperience:\n5 years across product engineering and platform teams.\nEducation:\nB.S. in Software Engineering, École Polytechnique\n"
+  },
+  {
+    "candidate_name": "Thomas Becker",
+    "resume_path": "data/resumes/thomas_becker.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Thomas Becker",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 9.0,
+    "education": [
+      "Dipl.-Ing. in Computer Science, TU Munich"
+    ],
+    "source_text": "Name: Thomas Becker\nSummary:\nInfrastructure engineer with deployment automation and observability.\nSkills:\nDocker, Kubernetes, AWS, Terraform, Prometheus, Python, Bash\nExperience:\n9 years scaling cloud infrastructure.\nEducation:\nDipl.-Ing. in Computer Science, TU Munich\n"
+  },
+  {
+    "candidate_name": "Thomas Becker",
+    "resume_path": "data/resumes/thomas_becker.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Infrastructure engineer with deployment automation and observability.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 9.0,
+    "education": [
+      "Dipl.-Ing. in Computer Science, TU Munich"
+    ],
+    "source_text": "Name: Thomas Becker\nSummary:\nInfrastructure engineer with deployment automation and observability.\nSkills:\nDocker, Kubernetes, AWS, Terraform, Prometheus, Python, Bash\nExperience:\n9 years scaling cloud infrastructure.\nEducation:\nDipl.-Ing. in Computer Science, TU Munich\n"
+  },
+  {
+    "candidate_name": "Thomas Becker",
+    "resume_path": "data/resumes/thomas_becker.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Docker, Kubernetes, AWS, Terraform, Prometheus, Python, Bash",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 9.0,
+    "education": [
+      "Dipl.-Ing. in Computer Science, TU Munich"
+    ],
+    "source_text": "Name: Thomas Becker\nSummary:\nInfrastructure engineer with deployment automation and observability.\nSkills:\nDocker, Kubernetes, AWS, Terraform, Prometheus, Python, Bash\nExperience:\n9 years scaling cloud infrastructure.\nEducation:\nDipl.-Ing. in Computer Science, TU Munich\n"
+  },
+  {
+    "candidate_name": "Thomas Becker",
+    "resume_path": "data/resumes/thomas_becker.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 9 years scaling cloud infrastructure.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 9.0,
+    "education": [
+      "Dipl.-Ing. in Computer Science, TU Munich"
+    ],
+    "source_text": "Name: Thomas Becker\nSummary:\nInfrastructure engineer with deployment automation and observability.\nSkills:\nDocker, Kubernetes, AWS, Terraform, Prometheus, Python, Bash\nExperience:\n9 years scaling cloud infrastructure.\nEducation:\nDipl.-Ing. in Computer Science, TU Munich\n"
+  },
+  {
+    "candidate_name": "Thomas Becker",
+    "resume_path": "data/resumes/thomas_becker.txt",
+    "section": "education",
+    "chunk_text": "Education: Dipl.-Ing. in Computer Science, TU Munich",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience_years": 9.0,
+    "education": [
+      "Dipl.-Ing. in Computer Science, TU Munich"
+    ],
+    "source_text": "Name: Thomas Becker\nSummary:\nInfrastructure engineer with deployment automation and observability.\nSkills:\nDocker, Kubernetes, AWS, Terraform, Prometheus, Python, Bash\nExperience:\n9 years scaling cloud infrastructure.\nEducation:\nDipl.-Ing. in Computer Science, TU Munich\n"
+  },
+  {
+    "candidate_name": "Yuki Tanaka",
+    "resume_path": "data/resumes/yuki_tanaka.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Yuki Tanaka",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Go",
+      "Java",
+      "Kubernetes",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "B.S. in Computer Science, University of Tokyo"
+    ],
+    "source_text": "Name: Yuki Tanaka\nSummary:\nSoftware engineer building secure, performant backend services.\nSkills:\nGo, Java, Kubernetes, PostgreSQL, AWS, gRPC, Microservices\nExperience:\n6 years in product infrastructure teams.\nEducation:\nB.S. in Computer Science, University of Tokyo\n"
+  },
+  {
+    "candidate_name": "Yuki Tanaka",
+    "resume_path": "data/resumes/yuki_tanaka.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Software engineer building secure, performant backend services.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Go",
+      "Java",
+      "Kubernetes",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "B.S. in Computer Science, University of Tokyo"
+    ],
+    "source_text": "Name: Yuki Tanaka\nSummary:\nSoftware engineer building secure, performant backend services.\nSkills:\nGo, Java, Kubernetes, PostgreSQL, AWS, gRPC, Microservices\nExperience:\n6 years in product infrastructure teams.\nEducation:\nB.S. in Computer Science, University of Tokyo\n"
+  },
+  {
+    "candidate_name": "Yuki Tanaka",
+    "resume_path": "data/resumes/yuki_tanaka.txt",
+    "section": "skills",
+    "chunk_text": "Skills: Go, Java, Kubernetes, PostgreSQL, AWS, gRPC, Microservices",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Go",
+      "Java",
+      "Kubernetes",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "B.S. in Computer Science, University of Tokyo"
+    ],
+    "source_text": "Name: Yuki Tanaka\nSummary:\nSoftware engineer building secure, performant backend services.\nSkills:\nGo, Java, Kubernetes, PostgreSQL, AWS, gRPC, Microservices\nExperience:\n6 years in product infrastructure teams.\nEducation:\nB.S. in Computer Science, University of Tokyo\n"
+  },
+  {
+    "candidate_name": "Yuki Tanaka",
+    "resume_path": "data/resumes/yuki_tanaka.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 6 years in product infrastructure teams.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Go",
+      "Java",
+      "Kubernetes",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "B.S. in Computer Science, University of Tokyo"
+    ],
+    "source_text": "Name: Yuki Tanaka\nSummary:\nSoftware engineer building secure, performant backend services.\nSkills:\nGo, Java, Kubernetes, PostgreSQL, AWS, gRPC, Microservices\nExperience:\n6 years in product infrastructure teams.\nEducation:\nB.S. in Computer Science, University of Tokyo\n"
+  },
+  {
+    "candidate_name": "Yuki Tanaka",
+    "resume_path": "data/resumes/yuki_tanaka.txt",
+    "section": "education",
+    "chunk_text": "Education: B.S. in Computer Science, University of Tokyo",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Go",
+      "Java",
+      "Kubernetes",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "B.S. in Computer Science, University of Tokyo"
+    ],
+    "source_text": "Name: Yuki Tanaka\nSummary:\nSoftware engineer building secure, performant backend services.\nSkills:\nGo, Java, Kubernetes, PostgreSQL, AWS, gRPC, Microservices\nExperience:\n6 years in product infrastructure teams.\nEducation:\nB.S. in Computer Science, University of Tokyo\n"
+  },
+  {
+    "candidate_name": "Zain Ali",
+    "resume_path": "data/resumes/zain_ali.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Name: Zain Ali",
+    "chunk_index": 0,
+    "skills": [
+      "Aws",
+      "Fastapi",
+      "Java",
+      "Javascript",
+      "Python",
+      "React",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "B.S. in Software Engineering, Lahore University of Management Sciences"
+    ],
+    "source_text": "Name: Zain Ali\nSummary:\nFull stack developer with API, frontend, and cloud deployment experience.\nSkills:\nJavaScript, React, Node.js, Python, FastAPI, PostgreSQL, AWS\nExperience:\n6 years delivering SaaS products.\nEducation:\nB.S. in Software Engineering, Lahore University of Management Sciences\n"
+  },
+  {
+    "candidate_name": "Zain Ali",
+    "resume_path": "data/resumes/zain_ali.txt",
+    "section": "summary",
+    "chunk_text": "Summary: Full stack developer with API, frontend, and cloud deployment experience.",
+    "chunk_index": 1,
+    "skills": [
+      "Aws",
+      "Fastapi",
+      "Java",
+      "Javascript",
+      "Python",
+      "React",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "B.S. in Software Engineering, Lahore University of Management Sciences"
+    ],
+    "source_text": "Name: Zain Ali\nSummary:\nFull stack developer with API, frontend, and cloud deployment experience.\nSkills:\nJavaScript, React, Node.js, Python, FastAPI, PostgreSQL, AWS\nExperience:\n6 years delivering SaaS products.\nEducation:\nB.S. in Software Engineering, Lahore University of Management Sciences\n"
+  },
+  {
+    "candidate_name": "Zain Ali",
+    "resume_path": "data/resumes/zain_ali.txt",
+    "section": "skills",
+    "chunk_text": "Skills: JavaScript, React, Node.js, Python, FastAPI, PostgreSQL, AWS",
+    "chunk_index": 2,
+    "skills": [
+      "Aws",
+      "Fastapi",
+      "Java",
+      "Javascript",
+      "Python",
+      "React",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "B.S. in Software Engineering, Lahore University of Management Sciences"
+    ],
+    "source_text": "Name: Zain Ali\nSummary:\nFull stack developer with API, frontend, and cloud deployment experience.\nSkills:\nJavaScript, React, Node.js, Python, FastAPI, PostgreSQL, AWS\nExperience:\n6 years delivering SaaS products.\nEducation:\nB.S. in Software Engineering, Lahore University of Management Sciences\n"
+  },
+  {
+    "candidate_name": "Zain Ali",
+    "resume_path": "data/resumes/zain_ali.txt",
+    "section": "experience",
+    "chunk_text": "Experience: 6 years delivering SaaS products.",
+    "chunk_index": 3,
+    "skills": [
+      "Aws",
+      "Fastapi",
+      "Java",
+      "Javascript",
+      "Python",
+      "React",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "B.S. in Software Engineering, Lahore University of Management Sciences"
+    ],
+    "source_text": "Name: Zain Ali\nSummary:\nFull stack developer with API, frontend, and cloud deployment experience.\nSkills:\nJavaScript, React, Node.js, Python, FastAPI, PostgreSQL, AWS\nExperience:\n6 years delivering SaaS products.\nEducation:\nB.S. in Software Engineering, Lahore University of Management Sciences\n"
+  },
+  {
+    "candidate_name": "Zain Ali",
+    "resume_path": "data/resumes/zain_ali.txt",
+    "section": "education",
+    "chunk_text": "Education: B.S. in Software Engineering, Lahore University of Management Sciences",
+    "chunk_index": 4,
+    "skills": [
+      "Aws",
+      "Fastapi",
+      "Java",
+      "Javascript",
+      "Python",
+      "React",
+      "Sql"
+    ],
+    "experience_years": 6.0,
+    "education": [
+      "B.S. in Software Engineering, Lahore University of Management Sciences"
+    ],
+    "source_text": "Name: Zain Ali\nSummary:\nFull stack developer with API, frontend, and cloud deployment experience.\nSkills:\nJavaScript, React, Node.js, Python, FastAPI, PostgreSQL, AWS\nExperience:\n6 years delivering SaaS products.\nEducation:\nB.S. in Software Engineering, Lahore University of Management Sciences\n"
+  }
+]

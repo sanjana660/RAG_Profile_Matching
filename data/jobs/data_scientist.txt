@@ -1,0 +1,7 @@
+Job Title: Data Scientist
+Must have:
+5+ years Python and SQL
+Machine learning, NLP, and experimentation
+Experience with retrieval or recommendation systems
+Responsibilities:
+Build models, evaluate experiments, and partner with product teams.
